@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/snow",
+    "side": "minecraft:block/snow_layer_side2"
+  }
+}

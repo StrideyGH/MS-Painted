@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "power=15": {
+      "model": "minecraft:block/redstone_wire_power_15", "y": 90
+    },
+    "power=14": {
+      "model": "minecraft:block/redstone_wire_power_11_to_14", "y": 90
+    },
+    "power=13": {
+      "model": "minecraft:block/redstone_wire_power_11_to_14", "y": 90
+    },
+    "power=12": {
+      "model": "minecraft:block/redstone_wire_power_11_to_14", "y": 90
+    },
+    "power=11": {
+      "model": "minecraft:block/redstone_wire_power_11_to_14", "y": 90
+    },
+    "power=10": {
+      "model": "minecraft:block/redstone_wire_power_1_to_10", "y": 90
+    },
+    "power=9": {
+      "model": "minecraft:block/redstone_wire_power_1_to_10", "y": 90
+    },
+    "power=8": {
+      "model": "minecraft:block/redstone_wire_power_1_to_10", "y": 90
+    },
+    "power=7": {
+      "model": "minecraft:block/redstone_wire_power_1_to_10", "y": 90
+    },
+    "power=6": {
+      "model": "minecraft:block/redstone_wire_power_1_to_10", "y": 90
+    },
+    "power=5": {
+      "model": "minecraft:block/redstone_wire_power_1_to_10", "y": 90
+    },
+    "power=4": {
+      "model": "minecraft:block/redstone_wire_power_1_to_10", "y": 90
+    },
+    "power=3": {
+      "model": "minecraft:block/redstone_wire_power_1_to_10", "y": 90
+    },
+    "power=2": {
+      "model": "minecraft:block/redstone_wire_power_1_to_10", "y": 90
+    },
+    "power=1": {
+      "model": "minecraft:block/redstone_wire_power_1_to_10", "y": 90
+    },
+    "power=0": {
+      "model": "minecraft:block/redstone_wire_power_0", "y": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated_1x2",
+	"textures": {
+		"top": "block/lilac_top",
+		"bottom": "block/lilac_bottom"
+	}
+}

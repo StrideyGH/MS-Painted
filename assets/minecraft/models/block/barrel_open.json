@@ -1,0 +1,23 @@
+{
+	"credit": "Created by Stridey",
+	"textures": {
+		"0": "block/barrel_bottom",
+		"1": "block/barrel_side",
+		"2": "block/barrel_top_open",
+		"particle": "block/barrel_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#1", "cullface": "east"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [16, 0, 0, 16], "texture": "#2", "cullface": "up"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#0", "cullface": "down"}
+			}
+		}
+	]
+}

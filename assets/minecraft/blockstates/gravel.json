@@ -1,0 +1,38 @@
+{
+	"variants": {
+		"": [
+			{ "model": "minecraft:block/gravel" },
+			{ "model": "minecraft:block/gravel", "x": 90 },
+			{ "model": "minecraft:block/gravel", "x": 180 },
+			{ "model": "minecraft:block/gravel", "x": 270 },
+			{ "model": "minecraft:block/gravel", "y": 90 },
+			{ "model": "minecraft:block/gravel", "y": 90, "x": 90 },
+			{ "model": "minecraft:block/gravel", "y": 90, "x": 180 },
+			{ "model": "minecraft:block/gravel", "y": 90, "x": 270 },
+			{ "model": "minecraft:block/gravel", "y": 180 },
+			{ "model": "minecraft:block/gravel", "y": 180, "x": 90 },
+			{ "model": "minecraft:block/gravel", "y": 180, "x": 180 },
+			{ "model": "minecraft:block/gravel", "y": 180, "x": 270 },
+			{ "model": "minecraft:block/gravel", "y": 270 },
+			{ "model": "minecraft:block/gravel", "y": 270, "x": 90 },
+			{ "model": "minecraft:block/gravel", "y": 270, "x": 180 },
+			{ "model": "minecraft:block/gravel", "y": 270, "x": 270 },
+			{ "model": "minecraft:block/gravel_mirrored" },
+			{ "model": "minecraft:block/gravel_mirrored", "x": 90 },
+			{ "model": "minecraft:block/gravel_mirrored", "x": 180 },
+			{ "model": "minecraft:block/gravel_mirrored", "x": 270 },
+			{ "model": "minecraft:block/gravel_mirrored", "y": 90 },
+			{ "model": "minecraft:block/gravel_mirrored", "y": 90, "x": 90 },
+			{ "model": "minecraft:block/gravel_mirrored", "y": 90, "x": 180 },
+			{ "model": "minecraft:block/gravel_mirrored", "y": 90, "x": 270 },
+			{ "model": "minecraft:block/gravel_mirrored", "y": 180 },
+			{ "model": "minecraft:block/gravel_mirrored", "y": 180, "x": 90 },
+			{ "model": "minecraft:block/gravel_mirrored", "y": 180, "x": 180 },
+			{ "model": "minecraft:block/gravel_mirrored", "y": 180, "x": 270 },
+			{ "model": "minecraft:block/gravel_mirrored", "y": 270 },
+			{ "model": "minecraft:block/gravel_mirrored", "y": 270, "x": 90 },
+			{ "model": "minecraft:block/gravel_mirrored", "y": 270, "x": 180 },
+			{ "model": "minecraft:block/gravel_mirrored", "y": 270, "x": 270 }
+		]
+	}
+}

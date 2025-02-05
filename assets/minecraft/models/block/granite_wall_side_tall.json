@@ -1,0 +1,8 @@
+{
+	"parent": "block/template_wall_side_tall",
+	"textures": {
+		"particle": "block/granite",
+		"top": "block/granite_slab_side",
+		"side": "block/granite"
+	}
+}

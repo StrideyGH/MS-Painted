@@ -1,0 +1,43 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/pause_menu_title.png",
+      "ascent": -2,
+      "height": 32,
+      "chars": [
+        "ꡑꡒ",
+        "ꡓꡔ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/pause_menu_title.png",
+      "ascent": -2,
+      "height": 64,
+      "chars": [
+        "ꡡꡢ",
+        "ꡣꡤ"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "minecraft:gui/pause_menu_title.png",
+      "ascent": 36,
+      "height": 64,
+      "chars": [
+        "ꡥꡦ",
+        "ꡧꡨ"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "minecraft:gui/pause_menu_gap.png",
+      "ascent": -32768,
+      "height": -3,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

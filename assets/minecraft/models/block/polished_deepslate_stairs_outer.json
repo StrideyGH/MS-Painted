@@ -1,0 +1,10 @@
+{
+	"parent": "block/outer_stairs_bordered",
+	"textures": {
+		"stairs_side": "block/polished_deepslate_stairs_side",
+		"particle": "block/polished_deepslate",
+		"full_block": "block/polished_deepslate",
+		"quarters": "block/polished_deepslate_quarters",
+		"slab_side": "block/polished_deepslate_slab_side"
+	}
+}

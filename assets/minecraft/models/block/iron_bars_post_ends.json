@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Stridey",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/iron_bars"
+	}
+}

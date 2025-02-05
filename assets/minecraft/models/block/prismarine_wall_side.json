@@ -1,0 +1,8 @@
+{
+	"parent": "block/template_wall_side",
+	"textures": {
+		"particle": "block/prismarine",
+		"top": "block/prismarine_slab_side",
+		"side": "block/prismarine"
+	}
+}

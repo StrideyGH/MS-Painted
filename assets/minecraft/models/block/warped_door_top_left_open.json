@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_left_open",
+  "textures": {
+    "main": "minecraft:block/warped_door_top",
+    "sides": "minecraft:block/warped_door_sides"
+  }
+}

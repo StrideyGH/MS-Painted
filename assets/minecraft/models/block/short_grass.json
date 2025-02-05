@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross_with_lower",
+  "textures": {
+    "cross": "minecraft:block/short_grass",
+    "particle": "minecraft:item/short_grass"
+  }
+}

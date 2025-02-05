@@ -1,0 +1,49 @@
+{
+	"credit": "Created by Stridey",
+	"textures": {
+		"quarters": "block/sandstone_quarters",
+		"particle": "block/sandstone",
+		"full_block": "block/sandstone",
+		"stairs_side": "block/sandstone_stairs_side_upsidedown",
+		"bottom": "block/sandstone_quarters2",
+		"top": "block/sandstone_top"
+	},
+	"elements": [
+		{
+			"from": [0, 8, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#full_block", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#full_block", "cullface": "east"},
+				"south": {"uv": [16, 0, 0, 8], "texture": "#stairs_side", "cullface": "south"},
+				"west": {"uv": [16, 0, 0, 8], "texture": "#stairs_side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#top", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#bottom"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 8, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 10]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#full_block", "cullface": "north"},
+				"east": {"uv": [8, 8, 16, 16], "texture": "#full_block", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 16], "texture": "#quarters"},
+				"west": {"uv": [0, 8, 8, 16], "texture": "#stairs_side", "cullface": "west"},
+				"down": {"uv": [8, 0, 16, 16], "rotation": 90, "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [8, 0, 8],
+			"to": [16, 8, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 10]},
+			"faces": {
+				"east": {"uv": [0, 8, 8, 16], "texture": "#full_block", "cullface": "east"},
+				"south": {"uv": [8, 8, 0, 16], "texture": "#stairs_side", "cullface": "south"},
+				"west": {"uv": [8, 8, 16, 16], "texture": "#quarters"},
+				"down": {"uv": [0, 0, 8, 8], "rotation": 90, "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	]
+}

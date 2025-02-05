@@ -1,0 +1,38 @@
+{
+	"credit": "Created by Stridey",
+	"textures": {
+		"quarters": "block/sandstone_quarters",
+		"slab_side": "block/sandstone_slab_side",
+		"stairs_side": "block/sandstone_stairs_side_upsidedown",
+		"top": "block/sandstone_top",
+		"particle": "block/sandstone",
+		"bottom": "block/sandstone_quarters2"
+	},
+	"elements": [
+		{
+			"from": [0, 8, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 8, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#slab_side", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#slab_side", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#slab_side", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#slab_side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#bottom"}
+			}
+		},
+		{
+			"from": [8, 0, 0],
+			"to": [16, 8, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 8, 10]},
+			"faces": {
+				"north": {"uv": [0, 8, 8, 16], "texture": "#stairs_side", "cullface": "north"},
+				"east": {"uv": [0, 8, 8, 16], "texture": "#stairs_side", "cullface": "east"},
+				"south": {"uv": [8, 8, 16, 16], "texture": "#quarters"},
+				"west": {"uv": [0, 8, 8, 16], "texture": "#quarters"},
+				"down": {"uv": [8, 0, 16, 8], "rotation": 90, "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	]
+}

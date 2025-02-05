@@ -1,0 +1,39 @@
+{
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "minecraft:block/podzol"
+      },
+      {
+        "model": "minecraft:block/podzol",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/podzol",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/podzol",
+        "y": 270
+      }
+    ],
+	
+    "snowy=true": [
+      {
+        "model": "minecraft:block/podzol_snow"
+      },
+      {
+        "model": "minecraft:block/podzol_snow",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/podzol_snow",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/podzol_snow",
+        "y": 270
+      }
+    ]
+  }
+}

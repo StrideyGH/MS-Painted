@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "stage=0": [
+	  { 
+	    "model": "block/mangrove_sapling"
+	  }
+    ],
+	"stage=1": [
+	  { 
+	    "model": "block/large_mangrove_propagule"
+	  }
+    ]
+  }
+}

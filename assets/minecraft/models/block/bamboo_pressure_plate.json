@@ -1,0 +1,6 @@
+{
+	"parent": "block/pressure_plate",
+	"textures": {
+		"texture": "block/bamboo_pressure_plate"
+	}
+}

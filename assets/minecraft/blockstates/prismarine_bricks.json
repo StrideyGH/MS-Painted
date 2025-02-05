@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/prismarine_bricks"
+            },
+            {
+                "model": "minecraft:block/prismarine_bricks_mirrored"
+            }
+        ]
+    }
+}

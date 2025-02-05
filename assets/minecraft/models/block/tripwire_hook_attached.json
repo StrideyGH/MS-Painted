@@ -1,0 +1,49 @@
+{
+	"credit": "Created by Stridey",
+	"ambientocclusion": false,
+	"textures": {
+		"hook": "block/tripwire_hook",
+		"particle": "block/oak_planks",
+		"tripwire": "block/tripwire"
+	},
+	"elements": [
+		{
+			"from": [7.75, 1.5, 0],
+			"to": [8.25, 1.5, 7.7],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 0, 0], "rescale": true},
+			"faces": {
+				"up": {"uv": [0, 6, 16, 8], "rotation": 90, "texture": "#tripwire"},
+				"down": {"uv": [0, 8, 16, 6], "rotation": 90, "texture": "#tripwire"}
+			}
+		},
+		{
+			"from": [6.2, 4.425, 6.75],
+			"to": [9.8, 4.425, 10.35],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 4.2, 6.7]},
+			"faces": {
+				"up": {"uv": [0, 10, 6.25, 16], "texture": "#hook"},
+				"down": {"uv": [6.25, 10, 0, 16], "rotation": 180, "texture": "#hook"}
+			}
+		},
+		{
+			"from": [7.4, 5.8, 10],
+			"to": [8.8, 5.8, 14],
+			"faces": {
+				"up": {"uv": [0, 0, 4, 8.5], "texture": "#hook"},
+				"down": {"uv": [0, 0, 4, 8.5], "rotation": 180, "texture": "#hook"}
+			}
+		},
+		{
+			"from": [6, 1, 14],
+			"to": [10, 9, 16],
+			"faces": {
+				"north": {"uv": [12, 0, 16, 8], "texture": "#hook"},
+				"east": {"uv": [14, 8, 16, 16], "texture": "#hook"},
+				"south": {"uv": [12, 0, 16, 8], "texture": "#hook", "cullface": "south"},
+				"west": {"uv": [14, 8, 16, 16], "texture": "#hook"},
+				"up": {"uv": [10, 8, 14, 10], "texture": "#hook"},
+				"down": {"uv": [10, 8, 14, 10], "texture": "#hook"}
+			}
+		}
+	]
+}

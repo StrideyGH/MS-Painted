@@ -1,0 +1,25 @@
+{
+	"credit": "Created by Stridey",
+	"textures": {
+		"top": "block/farmland",
+		"side_n": "block/farmland_side1",
+		"side_s": "block/farmland_side2",
+		"side_ew": "block/farmland_side3",
+		"particle": "block/dirt",
+		"bottom": "block/dirt"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 15, 16],
+			"faces": {
+				"north": {"uv": [0, 1, 16, 16], "texture": "#side_n", "cullface": "north"},
+				"east": {"uv": [0, 1, 16, 16], "texture": "#side_ew", "cullface": "east"},
+				"south": {"uv": [0, 1, 16, 16], "texture": "#side_s", "cullface": "south"},
+				"west": {"uv": [0, 1, 16, 16], "texture": "#side_ew", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	]
+}

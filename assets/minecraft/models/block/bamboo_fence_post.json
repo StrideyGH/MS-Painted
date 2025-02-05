@@ -1,0 +1,8 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/fence_post",
+	"textures": {
+		"fence_post": "block/bamboo_fence",
+		"particle": "block/bamboo_fence_break"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/fence_post",
+	"textures": {
+		"fence_post": "block/dark_oak_fence",
+		"particle": "block/stripped_dark_oak_log"
+	}
+}

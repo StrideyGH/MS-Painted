@@ -1,0 +1,23 @@
+{
+	"credit": "Created by Stridey",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/bamboo_button",
+		"texture": "block/bamboo_button"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 2, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9, 8]},
+			"faces": {
+				"north": {"uv": [8, 0, 10, 2], "texture": "#texture"},
+				"east": {"uv": [8, 0, 10, 2], "texture": "#texture"},
+				"south": {"uv": [8, 0, 10, 2], "texture": "#texture"},
+				"west": {"uv": [8, 0, 10, 2], "texture": "#texture"},
+				"up": {"uv": [0, 8, 8, 0], "texture": "#texture"},
+				"down": {"uv": [0, 8, 8, 0], "rotation": 180, "texture": "#texture", "cullface": "down"}
+			}
+		}
+	]
+}

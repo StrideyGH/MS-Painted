@@ -1,0 +1,22 @@
+{
+	"credit": "Created by Stridey",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#main",
+		"main": "#main",
+		"sides": "#sides"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [6.125, 0, 3.125, 16], "texture": "#sides", "cullface": "north"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#main"},
+				"south": {"uv": [9.375, 0, 12.375, 16], "texture": "#sides", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#main", "cullface": "west"},
+				"down": {"uv": [12.5, 16, 15.5, 0], "texture": "#sides", "cullface": "down"}
+			}
+		}
+	]
+}

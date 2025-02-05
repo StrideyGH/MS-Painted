@@ -1,0 +1,44 @@
+{
+	"credit": "Created by Stridey",
+	"textures": {
+		"frame": "#frame"
+	},
+	"elements": [
+		{
+			"from": [1.125, 1.125, 15.75],
+			"to": [15, 15, 15.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.75, 6.71875, 15.75]},
+			"faces": {
+				"north": {"uv": [1, 1, 14.875, 14.875], "texture": "#frame"},
+				"south": {"uv": [14.875, 1, 1, 14.875], "texture": "#frame"}
+			}
+		},
+		{
+			"from": [8, 1, 15.75],
+			"to": [15, 1.125, 15.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.75, 6.71875, 15.75]},
+			"faces": {
+				"north": {"uv": [1, 14.875, 8, 15], "texture": "#frame"},
+				"south": {"uv": [8, 14.875, 1, 15], "texture": "#frame"}
+			}
+		},
+		{
+			"from": [15, 9.75, 15.75],
+			"to": [15.125, 15, 15.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.75, 6.71875, 15.75]},
+			"faces": {
+				"north": {"uv": [0.875, 1, 1, 6.25], "texture": "#frame"},
+				"south": {"uv": [1, 1, 0.875, 6.25], "texture": "#frame"}
+			}
+		},
+		{
+			"from": [1, 7.625, 15.75],
+			"to": [7.875, 15.125, 15.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.75, 6.71875, 15.75]},
+			"faces": {
+				"north": {"uv": [8.125, 0.875, 15, 8.375], "texture": "#frame"},
+				"south": {"uv": [15, 0.875, 8.125, 8.375], "texture": "#frame"}
+			}
+		}
+	]
+}

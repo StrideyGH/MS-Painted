@@ -1,0 +1,9 @@
+{
+	"parent": "block/template_sniffer_egg",
+	"textures": {
+		"front": "block/sniffer_egg_front",
+		"particle": "block/sniffer_egg_side",
+		"side": "block/sniffer_egg_side",
+		"top": "block/sniffer_egg_top"
+	}
+}

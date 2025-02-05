@@ -1,0 +1,70 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/block",
+	"textures": {
+		"side_overlay": "block/sculk_shrieker_side_overlay",
+		"bottom": "block/sculk_sensor_bottom",
+		"side": "block/sculk_shrieker_side",
+		"bottom_slab_top": "block/sculk_shrieker_inner_top",
+		"particle": "#side"
+	},
+	"elements": [
+		{
+			"name": "bottom_slab",
+			"from": [0, 0, 0],
+			"to": [16, 8, 16],
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#bottom_slab_top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"name": "top_slab",
+			"from": [1, 8, 1],
+			"to": [15, 16, 15],
+			"faces": {
+				"north": {"uv": [1, 0, 15, 8], "texture": "#side"},
+				"east": {"uv": [1, 0, 15, 8], "texture": "#side"},
+				"south": {"uv": [1, 0, 15, 8], "texture": "#side"},
+				"west": {"uv": [1, 0, 15, 8], "texture": "#side"}
+			}
+		},
+		{
+			"name": "top_slab_invert",
+			"from": [1, 8, 15],
+			"to": [15, 16, 1],
+			"faces": {
+				"north": {"uv": [1, 0, 15, 8], "texture": "#side"},
+				"east": {"uv": [1, 0, 15, 8], "texture": "#side"},
+				"south": {"uv": [1, 0, 15, 8], "texture": "#side"},
+				"west": {"uv": [1, 0, 15, 8], "texture": "#side"}
+			}
+		},
+		{
+			"name": "bottom_slab_circle_invert",
+			"from": [0.015, 7.99, 15.99],
+			"to": [15.99, 11.01, 0.01],
+			"faces": {
+				"north": {"uv": [0, 13, 16, 16], "texture": "#side_overlay"},
+				"east": {"uv": [0, 13, 16, 16], "texture": "#side_overlay"},
+				"south": {"uv": [0, 13, 16, 16], "texture": "#side_overlay"},
+				"west": {"uv": [0, 13, 16, 16], "texture": "#side_overlay"}
+			}
+		},
+		{
+			"name": "bottom_slab_circle",
+			"from": [0, 8, 0],
+			"to": [16, 11, 16],
+			"faces": {
+				"north": {"uv": [0, 5, 16, 8], "texture": "#side_overlay", "cullface": "north"},
+				"east": {"uv": [0, 5, 16, 8], "texture": "#side_overlay", "cullface": "east"},
+				"south": {"uv": [0, 5, 16, 8], "texture": "#side_overlay", "cullface": "south"},
+				"west": {"uv": [0, 5, 16, 8], "texture": "#side_overlay", "cullface": "west"}
+			}
+		}
+	]
+}

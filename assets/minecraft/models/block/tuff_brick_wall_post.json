@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_wall_post",
+	"textures": {
+		"particle": "block/tuff_bricks",
+		"wall": "block/tuff_brick_wall"
+	}
+}

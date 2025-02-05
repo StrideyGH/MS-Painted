@@ -1,0 +1,8 @@
+{
+	"parent": "block/seamless_log",
+	"textures": {
+		"ends": "block/birch_log",
+		"sides": "block/birch_log",
+		"particle": "block/birch_log"
+	}
+}

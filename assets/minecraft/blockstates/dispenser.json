@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "minecraft:block/dispenser",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "minecraft:block/dispenser",
+      "x": 90
+    }
+  }
+}

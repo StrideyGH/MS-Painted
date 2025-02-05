@@ -1,0 +1,9 @@
+{
+	"parent": "block/inner_stairs_bordered",
+	"textures": {
+		"quarters": "block/deepslate_tile_slab_side",
+		"particle": "block/deepslate_tiles",
+		"full_block": "block/deepslate_tiles",
+		"stairs_side": "block/deepslate_tile_slab_side"
+	}
+}

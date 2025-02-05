@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "minecraft:block/dropper",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "minecraft:block/dropper",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated_1x2",
+	"textures": {
+		"top": "item/pitcher_plant_top",
+		"bottom": "item/pitcher_plant_bottom"
+	}
+}

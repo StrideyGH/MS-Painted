@@ -1,0 +1,9 @@
+{
+	"parent": "block/stairs_bordered",
+	"textures": {
+		"particle": "block/prismarine",
+		"side": "block/prismarine_slab_side",
+		"top": "block/prismarine_slab_side",
+		"bottom": "block/prismarine"
+	}
+}

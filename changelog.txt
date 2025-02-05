@@ -1,0 +1,23 @@
+	
+	MS Painted for 1.21-25w06a (v2.33)
+	
+BLOCKS
+---
++ textured cactus flower (25w06a+)
++ textured short dry grass and tall dry grass (25w06a+)
++ added animation variants to firefly bushes (25w05a+)
++ added flowering oak leaves to flowering forests (optifine/continuity)
+~ tweaked sand and red sand
+
+ITEMS
+---
++ textured blue egg and brown egg (25w06a+)
+~ changed orb painting credit to Stridey
+
+ENTITIES
+---
++ textured cold chicken and warm chicken (25w06a+)
+~ fixed temperate chicken (25w06a+)
+
+OTHER
+---

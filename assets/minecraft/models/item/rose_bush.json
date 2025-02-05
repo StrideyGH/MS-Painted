@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated_1x2",
+	"textures": {
+		"top": "block/rose_bush_top",
+		"bottom": "block/rose_bush_bottom"
+	}
+}

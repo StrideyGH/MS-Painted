@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_orientable_trapdoor_open",
+  "textures": {
+    "ends": "minecraft:block/mangrove_trapdoor",
+    "particle": "minecraft:block/mangrove_trapdoor",
+    "sides": "minecraft:block/mangrove_trapdoor_sides"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "block/slab_double",
+	"textures": {
+		"sides": "block/blackstone_slab_side",
+		"ends": "block/blackstone"
+	}
+}

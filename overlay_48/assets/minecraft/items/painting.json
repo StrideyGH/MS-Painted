@@ -1,0 +1,364 @@
+{
+  "model": {
+    "type": "select",
+    "property": "minecraft:component",
+    "component": "painting/variant",
+    "cases": [
+      {
+        "when": "alban",
+        "model": {
+          "type": "model",
+          "model": "item/painting/alban"
+        }
+      },
+      {
+        "when": "aztec",
+        "model": {
+          "type": "model",
+          "model": "item/painting/aztec"
+        }
+      },
+      {
+        "when": "aztec2",
+        "model": {
+          "type": "model",
+          "model": "item/painting/aztec2"
+        }
+      },
+      {
+        "when": "bomb",
+        "model": {
+          "type": "model",
+          "model": "item/painting/bomb"
+        }
+      },
+      {
+        "when": "kebab",
+        "model": {
+          "type": "model",
+          "model": "item/painting/kebab"
+        }
+      },
+      {
+        "when": "meditative",
+        "model": {
+          "type": "model",
+          "model": "item/painting/meditative"
+        }
+      },
+      {
+        "when": "plant",
+        "model": {
+          "type": "model",
+          "model": "item/painting/plant"
+        }
+      },
+      {
+        "when": "wasteland",
+        "model": {
+          "type": "model",
+          "model": "item/painting/wasteland"
+        }
+      },
+      {
+        "when": "graham",
+        "model": {
+          "type": "model",
+          "model": "item/painting/graham"
+        }
+      },
+      {
+        "when": "wanderer",
+        "model": {
+          "type": "model",
+          "model": "item/painting/wanderer"
+        }
+      },
+      {
+        "when": "backyard",
+        "model": {
+          "type": "model",
+          "model": "item/painting/backyard"
+        }
+      },
+      {
+        "when": "prairie_ride",
+        "model": {
+          "type": "model",
+          "model": "item/painting/prairie_ride"
+        }
+      },
+      {
+        "when": "courbet",
+        "model": {
+          "type": "model",
+          "model": "item/painting/courbet"
+        }
+      },
+      {
+        "when": "creebet",
+        "model": {
+          "type": "model",
+          "model": "item/painting/creebet"
+        }
+      },
+      {
+        "when": "pool",
+        "model": {
+          "type": "model",
+          "model": "item/painting/pool"
+        }
+      },
+      {
+        "when": "sea",
+        "model": {
+          "type": "model",
+          "model": "item/painting/sea"
+        }
+      },
+      {
+        "when": "sunset",
+        "model": {
+          "type": "model",
+          "model": "item/painting/sunset"
+        }
+      },
+      {
+        "when": "baroque",
+        "model": {
+          "type": "model",
+          "model": "item/painting/baroque"
+        }
+      },
+      {
+        "when": "bust",
+        "model": {
+          "type": "model",
+          "model": "item/painting/bust"
+        }
+      },
+      {
+        "when": "humble",
+        "model": {
+          "type": "model",
+          "model": "item/painting/humble"
+        }
+      },
+      {
+        "when": "match",
+        "model": {
+          "type": "model",
+          "model": "item/painting/match"
+        }
+      },
+      {
+        "when": "skull_and_roses",
+        "model": {
+          "type": "model",
+          "model": "item/painting/skull_and_roses"
+        }
+      },
+      {
+        "when": "wind",
+        "model": {
+          "type": "model",
+          "model": "item/painting/wind"
+        }
+      },
+      {
+        "when": "water",
+        "model": {
+          "type": "model",
+          "model": "item/painting/water"
+        }
+      },
+      {
+        "when": "earth",
+        "model": {
+          "type": "model",
+          "model": "item/painting/earth"
+        }
+      },
+      {
+        "when": "fire",
+        "model": {
+          "type": "model",
+          "model": "item/painting/fire"
+        }
+      },
+      {
+        "when": "wither",
+        "model": {
+          "type": "model",
+          "model": "item/painting/wither"
+        }
+      },
+      {
+        "when": "stage",
+        "model": {
+          "type": "model",
+          "model": "item/painting/stage"
+        }
+      },
+      {
+        "when": "void",
+        "model": {
+          "type": "model",
+          "model": "item/painting/void"
+        }
+      },
+      {
+        "when": "fighters",
+        "model": {
+          "type": "model",
+          "model": "item/painting/fighters"
+        }
+      },
+      {
+        "when": "finding",
+        "model": {
+          "type": "model",
+          "model": "item/painting/finding"
+        }
+      },
+      {
+        "when": "lowmist",
+        "model": {
+          "type": "model",
+          "model": "item/painting/lowmist"
+        }
+      },
+      {
+        "when": "passage",
+        "model": {
+          "type": "model",
+          "model": "item/painting/passage"
+        }
+      },
+      {
+        "when": "cotan",
+        "model": {
+          "type": "model",
+          "model": "item/painting/cotan"
+        }
+      },
+      {
+        "when": "tides",
+        "model": {
+          "type": "model",
+          "model": "item/painting/tides"
+        }
+      },
+      {
+        "when": "pond",
+        "model": {
+          "type": "model",
+          "model": "item/painting/pond"
+        }
+      },
+      {
+        "when": "donkey_kong",
+        "model": {
+          "type": "model",
+          "model": "item/painting/donkey_kong"
+        }
+      },
+      {
+        "when": "skeleton",
+        "model": {
+          "type": "model",
+          "model": "item/painting/skeleton"
+        }
+      },
+      {
+        "when": "burning_skull",
+        "model": {
+          "type": "model",
+          "model": "item/painting/burning_skull"
+        }
+      },
+      {
+        "when": "pigscene",
+        "model": {
+          "type": "model",
+          "model": "item/painting/pigscene"
+        }
+      },
+      {
+        "when": "pointer",
+        "model": {
+          "type": "model",
+          "model": "item/painting/pointer"
+        }
+      },
+      {
+        "when": "unpacked",
+        "model": {
+          "type": "model",
+          "model": "item/painting/unpacked"
+        }
+      },
+	  
+      {
+        "when": "changing",
+        "model": {
+          "type": "model",
+          "model": "item/painting/changing"
+        }
+      },
+      {
+        "when": "bouquet",
+        "model": {
+          "type": "model",
+          "model": "item/painting/wip"
+        }
+      },
+      {
+        "when": "cavebird",
+        "model": {
+          "type": "model",
+          "model": "item/painting/wip"
+        }
+      },
+      {
+        "when": "endboss",
+        "model": {
+          "type": "model",
+          "model": "item/painting/wip"
+        }
+      },
+      {
+        "when": "fern",
+        "model": {
+          "type": "model",
+          "model": "item/painting/wip"
+        }
+      },
+      {
+        "when": "owlemons",
+        "model": {
+          "type": "model",
+          "model": "item/painting/wip"
+        }
+      },
+      {
+        "when": "sunflowers",
+        "model": {
+          "type": "model",
+          "model": "item/painting/wip"
+        }
+      },
+      {
+        "when": "orb",
+        "model": {
+          "type": "model",
+          "model": "item/painting/orb"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/painting"
+    }
+  }
+}

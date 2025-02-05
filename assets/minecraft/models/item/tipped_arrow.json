@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated_layers",
+	"textures": {
+		"layer0": "item/tipped_arrow_base",
+		"layer1": "item/tipped_arrow_head"
+	}
+}

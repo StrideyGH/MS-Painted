@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated_1x2",
+	"textures": {
+		"top": "block/peony_top",
+		"bottom": "block/peony_bottom"
+	}
+}

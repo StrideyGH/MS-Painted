@@ -1,0 +1,11 @@
+{
+	"parent": "block/sandstone_stairs_inner",
+	"textures": {
+		"quarters": "block/red_sandstone_quarters",
+		"particle": "block/red_sandstone",
+		"full_block": "block/red_sandstone",
+		"stairs_side": "block/red_sandstone_stairs_side",
+		"bottom": "block/red_sandstone_bottom",
+		"top": "block/red_sandstone_top"
+	}
+}

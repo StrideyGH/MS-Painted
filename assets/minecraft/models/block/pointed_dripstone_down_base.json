@@ -1,0 +1,50 @@
+{
+	"credit": "Created by Stridey",
+	"textures": {
+		"1": "block/pointed_dripstone_up_base",
+		"particle": "block/pointed_dripstone_down_base",
+		"cross": "block/pointed_dripstone_down_base"
+	},
+	"elements": [
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [0.8, 16, 8],
+			"to": [15.2, 24, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 0], "texture": "#1"},
+				"south": {"uv": [0, 8, 16, 0], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, 16, 0.8],
+			"to": [8, 24, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 8, 16, 0], "texture": "#1"},
+				"west": {"uv": [0, 8, 16, 0], "texture": "#1"}
+			}
+		}
+	]
+}

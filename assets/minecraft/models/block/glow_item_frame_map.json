@@ -1,0 +1,6 @@
+{
+	"parent": "block/template_item_frame_map",
+	"textures": {
+		"frame": "block/glow_item_frame"
+	}
+}

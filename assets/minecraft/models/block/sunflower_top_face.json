@@ -1,0 +1,6 @@
+{
+    "parent": "block/sunflower_top",
+    "textures": {
+        "front": "block/sunflower_front_face"
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "item/waxed_stairs",
+	"textures": {
+		"side1": "item/waxed_weathered_cut_copper_stairs1",
+		"side2": "item/waxed_weathered_cut_copper_stairs2",
+		"particle": "item/waxed_weathered_cut_copper",
+		"bottom": "item/waxed_weathered_cut_copper",
+		"front": "item/waxed_weathered_cut_copper_slab"
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/thin_block",
+	"ambientocclusion": false,
+	"textures": {
+		"sides": "block/copper_trapdoor_sides",
+		"particle": "block/copper_trapdoor",
+		"ends": "block/copper_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#sides", "cullface": "north"},
+				"east": {"uv": [0, 3.125, 16, 6.125], "rotation": 180, "texture": "#sides", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#sides", "cullface": "south"},
+				"west": {"uv": [0, 3.125, 16, 6.125], "rotation": 180, "texture": "#sides", "cullface": "west"},
+				"up": {"uv": [16, 0, 0, 16], "rotation": 270, "texture": "#ends"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#ends", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 2],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 4.2, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"translation": [0, 4.2, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [-90, 90, 0],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"variants": {
+		"": [
+			{ "model": "minecraft:block/granite" },
+			{ "model": "minecraft:block/granite", "x": 90 },
+			{ "model": "minecraft:block/granite", "x": 180 },
+			{ "model": "minecraft:block/granite", "x": 270 },
+			{ "model": "minecraft:block/granite", "y": 90 },
+			{ "model": "minecraft:block/granite", "y": 90, "x": 90 },
+			{ "model": "minecraft:block/granite", "y": 90, "x": 180 },
+			{ "model": "minecraft:block/granite", "y": 90, "x": 270 },
+			{ "model": "minecraft:block/granite", "y": 180 },
+			{ "model": "minecraft:block/granite", "y": 180, "x": 90 },
+			{ "model": "minecraft:block/granite", "y": 180, "x": 180 },
+			{ "model": "minecraft:block/granite", "y": 180, "x": 270 },
+			{ "model": "minecraft:block/granite", "y": 270 },
+			{ "model": "minecraft:block/granite", "y": 270, "x": 90 },
+			{ "model": "minecraft:block/granite", "y": 270, "x": 180 },
+			{ "model": "minecraft:block/granite", "y": 270, "x": 270 },
+			{ "model": "minecraft:block/granite_mirrored" },
+			{ "model": "minecraft:block/granite_mirrored", "x": 90 },
+			{ "model": "minecraft:block/granite_mirrored", "x": 180 },
+			{ "model": "minecraft:block/granite_mirrored", "x": 270 },
+			{ "model": "minecraft:block/granite_mirrored", "y": 90 },
+			{ "model": "minecraft:block/granite_mirrored", "y": 90, "x": 90 },
+			{ "model": "minecraft:block/granite_mirrored", "y": 90, "x": 180 },
+			{ "model": "minecraft:block/granite_mirrored", "y": 90, "x": 270 },
+			{ "model": "minecraft:block/granite_mirrored", "y": 180 },
+			{ "model": "minecraft:block/granite_mirrored", "y": 180, "x": 90 },
+			{ "model": "minecraft:block/granite_mirrored", "y": 180, "x": 180 },
+			{ "model": "minecraft:block/granite_mirrored", "y": 180, "x": 270 },
+			{ "model": "minecraft:block/granite_mirrored", "y": 270 },
+			{ "model": "minecraft:block/granite_mirrored", "y": 270, "x": 90 },
+			{ "model": "minecraft:block/granite_mirrored", "y": 270, "x": 180 },
+			{ "model": "minecraft:block/granite_mirrored", "y": 270, "x": 270 }
+		]
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "block/block_crop_stem",
+	"textures": {
+		"cross": "block/pumpkin_stem_stage5"
+	}
+}

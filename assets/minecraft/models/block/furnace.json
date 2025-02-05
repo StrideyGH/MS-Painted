@@ -1,0 +1,13 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/cube",
+	"textures": {
+		"particle": "#west",
+		"north": "block/furnace_front",
+		"west": "block/furnace_side",
+		"east": "block/furnace_side",
+		"south": "block/furnace_side",
+		"up": "block/furnace_top",
+		"down": "block/furnace_bottom"
+	}
+}

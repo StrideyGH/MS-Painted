@@ -1,0 +1,6 @@
+{
+	"parent": "block/template_redstone_wire",
+	"textures": {
+		"redstone": "block/redstone_wire_power_1_to_10"
+	}
+}

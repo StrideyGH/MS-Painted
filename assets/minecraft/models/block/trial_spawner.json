@@ -1,0 +1,8 @@
+{
+	"parent": "block/template_spawner",
+	"textures": {
+		"top": "block/trial_spawner_top_inactive",
+		"side": "block/trial_spawner_side_inactive",
+		"bottom": "block/trial_spawner_bottom"
+	}
+}

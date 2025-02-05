@@ -1,0 +1,6 @@
+{
+	"parent": "item/potion",
+	"textures": {
+		"layer0": "item/lingering_potion"
+	}
+}

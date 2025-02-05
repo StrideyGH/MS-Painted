@@ -1,0 +1,17 @@
+{
+	"credit": "Created by Stridey",
+	"textures": {
+		"frame": "#frame"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 15.75],
+			"to": [16, 16, 15.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.75, 6.71875, 15.75]},
+			"faces": {
+				"north": {"uv": [1, 1, 14.875, 14.875], "texture": "#frame"},
+				"south": {"uv": [14.875, 1, 1, 14.875], "texture": "#frame"}
+			}
+		}
+	]
+}

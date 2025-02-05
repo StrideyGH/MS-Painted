@@ -1,0 +1,23 @@
+{
+	"credit": "Created by Stridey",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#front",
+		"front": "block/copper_door_bottom",
+		"sides": "block/copper_door_sides"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 1.5]},
+			"faces": {
+				"north": {"uv": [9.375, 0, 12.375, 16], "texture": "#sides"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#front"},
+				"south": {"uv": [3.125, 0, 6.125, 16], "texture": "#sides"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#front"},
+				"down": {"uv": [12.5, 16, 15.5, 0], "rotation": 180, "texture": "#sides"}
+			}
+		}
+	]
+}

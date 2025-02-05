@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated_layers",
+	"textures": {
+		"layer0": "item/potion_bottle",
+		"layer1": "item/potion_overlay"
+	}
+}

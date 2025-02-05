@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_wall_post",
+	"textures": {
+		"particle": "block/prismarine",
+		"wall": "block/prismarine_slab_side"
+	}
+}

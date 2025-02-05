@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/bricks" },
+            { "model": "minecraft:block/bricks_mirrored" }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+	"credit": "Created by Stridey",
+	"ambientocclusion": false,
+	"textures": {
+		"fence_side": "#fence_side"
+	},
+	"elements": [
+		{
+			"name": "top_bar",
+			"from": [8, 12, 0],
+			"to": [8, 15, 9],
+			"faces": {
+				"east": {"uv": [7, 13, 16, 16], "texture": "#fence_side"},
+				"west": {"uv": [7, 13, 16, 16], "texture": "#fence_side"}
+			}
+		},
+		{
+			"name": "low_bar",
+			"from": [8, 6, 0],
+			"to": [8, 9, 9],
+			"faces": {
+				"east": {"uv": [7, 13, 16, 16], "rotation": 180, "texture": "#fence_side"},
+				"west": {"uv": [7, 13, 16, 16], "rotation": 180, "texture": "#fence_side"}
+			}
+		}
+	]
+}

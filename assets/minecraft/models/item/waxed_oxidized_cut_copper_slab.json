@@ -1,0 +1,7 @@
+{
+	"parent": "item/waxed_slab",
+	"textures": {
+		"bottom": "item/waxed_oxidized_cut_copper",
+		"side": "item/waxed_oxidized_cut_copper_slab"
+	}
+}

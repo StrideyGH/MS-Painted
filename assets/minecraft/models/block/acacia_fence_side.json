@@ -1,0 +1,8 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/fence_side",
+	"textures": {
+		"fence_side": "block/acacia_fence",
+		"particle": "block/stripped_acacia_log"
+	}
+}

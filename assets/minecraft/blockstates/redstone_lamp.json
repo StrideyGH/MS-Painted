@@ -1,0 +1,152 @@
+{
+	"variants": {
+		"lit=false": [
+			{
+				"model": "minecraft:block/redstone_lamp"
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"x": 180
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"x": 270
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"y": 90,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"y": 90,
+				"x": 180
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"y": 90,
+				"x": 270
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"y": 180,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"y": 180,
+				"x": 180
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"y": 180,
+				"x": 270
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"y": 270,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"y": 270,
+				"x": 180
+			},
+			{
+				"model": "minecraft:block/redstone_lamp",
+				"y": 270,
+				"x": 270
+			}
+		],
+		"lit=true": [
+			{
+				"model": "minecraft:block/redstone_lamp_on"
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"x": 180
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"x": 270
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"y": 90
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"y": 90,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"y": 90,
+				"x": 180
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"y": 90,
+				"x": 270
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"y": 180
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"y": 180,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"y": 180,
+				"x": 180
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"y": 180,
+				"x": 270
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"y": 270
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"y": 270,
+				"x": 90
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"y": 270,
+				"x": 180
+			},
+			{
+				"model": "minecraft:block/redstone_lamp_on",
+				"y": 270,
+				"x": 270
+			}
+		]
+	}
+}

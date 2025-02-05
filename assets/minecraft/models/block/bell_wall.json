@@ -1,0 +1,33 @@
+{
+	"credit": "Created by Stridey",
+	"textures": {
+		"bar": "block/bell_floor_beam",
+		"particle": "block/gold_block"
+	},
+	"elements": [
+		{
+			"from": [4, 13.125, 8],
+			"to": [11, 15.125, 8],
+			"faces": {
+				"north": {"uv": [5, 0, 12, 1.875], "texture": "#bar"},
+				"south": {"uv": [12, 0, 5, 1.875], "texture": "#bar"}
+			}
+		},
+		{
+			"from": [3, 13.25, 8],
+			"to": [4, 15, 8],
+			"faces": {
+				"north": {"uv": [12, 0, 13, 1.75], "texture": "#bar"},
+				"south": {"uv": [13, 0, 12, 1.75], "texture": "#bar"}
+			}
+		},
+		{
+			"from": [10, 13, 8],
+			"to": [16, 15, 8],
+			"faces": {
+				"north": {"uv": [0, 0.125, 6, 2], "texture": "#bar"},
+				"south": {"uv": [6, 0.125, 0, 2], "texture": "#bar"}
+			}
+		}
+	]
+}

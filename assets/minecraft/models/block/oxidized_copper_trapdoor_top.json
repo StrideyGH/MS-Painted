@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_orientable_trapdoor_top",
+  "textures": {
+    "ends": "minecraft:block/oxidized_copper_trapdoor",
+    "particle": "minecraft:block/oxidized_copper_trapdoor",
+    "sides": "minecraft:block/oxidized_copper_trapdoor_sides"
+  }
+}

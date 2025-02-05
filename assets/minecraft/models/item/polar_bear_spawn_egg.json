@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/polar_bear_spawn_egg"
+	}
+}

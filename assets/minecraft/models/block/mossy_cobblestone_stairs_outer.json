@@ -1,0 +1,10 @@
+{
+	"parent": "block/outer_stairs_bordered",
+	"textures": {
+		"stairs_side": "block/mossy_cobblestone_slab_side",
+		"particle": "block/mossy_cobblestone",
+		"full_block": "block/mossy_cobblestone",
+		"quarters": "block/mossy_cobblestone_slab_side",
+		"slab_side": "block/mossy_cobblestone_slab_side"
+	}
+}

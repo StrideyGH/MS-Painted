@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated_layers",
+    "textures": {
+        "layer0": "item/leather_helmet_overlay",
+        "layer1": "item/leather_helmet"
+    }
+}

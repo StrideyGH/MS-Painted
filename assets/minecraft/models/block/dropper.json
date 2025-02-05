@@ -1,0 +1,6 @@
+{
+	"parent": "block/furnace",
+	"textures": {
+		"north": "block/dropper_front"
+	}
+}

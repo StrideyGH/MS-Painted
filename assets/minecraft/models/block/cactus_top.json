@@ -1,0 +1,51 @@
+{
+	"credit": "Created by Stridey",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/cactus",
+		"cactus": "block/cactus",
+		"flower": "block/cactus_flower"
+	},
+	"elements": [
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#cactus"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#cactus"}
+			}
+		},
+		{
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#cactus"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#cactus"}
+			}
+		},
+		{
+			"from": [8, 15.5, 0.8],
+			"to": [8, 19.5, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 12, 16, 16], "texture": "#flower", "cullface": "up"},
+				"west": {"uv": [0, 12, 16, 16], "texture": "#flower", "cullface": "up"}
+			}
+		},
+		{
+			"from": [0.8, 15.5, 8],
+			"to": [15.2, 19.5, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 12, 16, 16], "texture": "#flower", "cullface": "up"},
+				"south": {"uv": [0, 12, 16, 16], "texture": "#flower", "cullface": "up"}
+			}
+		}
+	]
+}

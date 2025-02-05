@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "optifine",
+            "prefix": "optifine/"
+        },
+		{
+            "type": "directory",
+            "source": "entity/piglin",
+            "prefix": "entity/piglin/"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated_emissive",
+	"textures": {
+		"layer0": "block/firefly_bush",
+		"emissive": "block/firefly_bush_emissive"
+	}
+}

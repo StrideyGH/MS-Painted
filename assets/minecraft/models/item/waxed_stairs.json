@@ -1,0 +1,36 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/block",
+	"textures": {
+		"side1": "#side1",
+		"side2": "#side2",
+		"particle": "#bottom",
+		"bottom": "#bottom",
+		"front": "#front"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 8, 16],
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#side1", "cullface": "north"},
+				"east": {"uv": [0, 8, 16, 16], "texture": "#bottom", "cullface": "east"},
+				"south": {"uv": [0, 8, 16, 16], "texture": "#side2", "cullface": "south"},
+				"west": {"uv": [0, 8, 16, 16], "texture": "#front", "cullface": "west"},
+				"up": {"uv": [16, 16, 0, 0], "rotation": 180, "texture": "#bottom"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [8, 8, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#side1", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#bottom", "cullface": "east"},
+				"south": {"uv": [8, 0, 16, 8], "texture": "#side2", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#bottom"},
+				"up": {"uv": [16, 8, 0, 16], "rotation": 270, "texture": "#front"}
+			}
+		}
+	]
+}

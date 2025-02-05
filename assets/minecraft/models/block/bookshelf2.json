@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/bookshelf",
+  "textures": {
+    "side": "minecraft:block/bookshelf2"
+  }
+}

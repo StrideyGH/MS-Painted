@@ -1,0 +1,7 @@
+{
+	"parent": "item/template_log",
+	"textures": {
+		"top": "block/stripped_cherry_log_top",
+		"side": "block/stripped_cherry_log"
+	}
+}

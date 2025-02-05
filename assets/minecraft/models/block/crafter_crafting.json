@@ -1,0 +1,9 @@
+{
+	"parent": "block/crafter",
+	"textures": {
+		"front": "block/crafter_front_crafting",
+		"top": "block/crafter_top_crafting",
+		"back": "block/crafter_back_triggered",
+		"side": "block/crafter_side_crafting"
+	}
+}

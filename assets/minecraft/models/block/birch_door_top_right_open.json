@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "main": "minecraft:block/birch_door_top",
+    "sides": "minecraft:block/birch_door_sides"
+  }
+}

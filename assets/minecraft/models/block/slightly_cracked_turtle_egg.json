@@ -1,0 +1,7 @@
+{
+	"parent": "block/turtle_egg",
+	"textures": {
+		"cross": "block/turtle_egg_slightly_cracked",
+		"particle": "item/turtle_egg"
+	}
+}

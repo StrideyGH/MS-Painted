@@ -1,0 +1,9 @@
+{
+	"parent": "block/inner_stairs_bordered",
+	"textures": {
+		"quarters": "block/diorite_slab_side",
+		"particle": "block/diorite",
+		"full_block": "block/diorite",
+		"stairs_side": "block/diorite_slab_side"
+	}
+}

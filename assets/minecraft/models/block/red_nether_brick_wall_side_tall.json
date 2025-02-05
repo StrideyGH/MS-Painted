@@ -1,0 +1,8 @@
+{
+	"parent": "block/template_wall_side_tall",
+	"textures": {
+		"particle": "block/red_nether_bricks",
+		"top": "block/red_nether_brick_wall",
+		"side": "block/red_nether_bricks"
+	}
+}

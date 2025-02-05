@@ -1,0 +1,2621 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/nothing"
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:aqua_affinity"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/aqua_affinity"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:bane_of_arthropods",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/bane_of_arthropods"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:bane_of_arthropods",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/bane_of_arthropods_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:bane_of_arthropods",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/bane_of_arthropods_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:bane_of_arthropods",
+            "levels": {
+              "min": 4,
+              "max": 4
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/bane_of_arthropods_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:bane_of_arthropods",
+            "levels": {
+              "min": 5,
+              "max": 5
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/bane_of_arthropods_5"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:binding_curse"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/binding_curse"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:blast_protection",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/blast_protection"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:blast_protection",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/blast_protection_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:blast_protection",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/blast_protection_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:blast_protection",
+            "levels": {
+              "min": 4,
+              "max": 4
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/blast_protection_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:channeling"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/channeling"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:depth_strider",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/depth_strider"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:depth_strider",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/depth_strider_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:depth_strider",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/depth_strider_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:efficiency",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/efficiency"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:efficiency",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/efficiency_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:efficiency",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/efficiency_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:efficiency",
+            "levels": {
+              "min": 4,
+              "max": 4
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/efficiency_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:efficiency",
+            "levels": {
+              "min": 5,
+              "max": 5
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/efficiency_5"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:feather_falling",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/feather_falling"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:feather_falling",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/feather_falling_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:feather_falling",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/feather_falling_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:feather_falling",
+            "levels": {
+              "min": 4,
+              "max": 4
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/feather_falling_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:fire_aspect",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/fire_aspect"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:fire_aspect",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/fire_aspect_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:fire_protection",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/fire_protection"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:fire_protection",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/fire_protection_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:fire_protection",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/fire_protection_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:fire_protection",
+            "levels": {
+              "min": 4,
+              "max": 4
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/fire_protection_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:flame"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/flame"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:fortune",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/fortune"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:fortune",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/fortune_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:fortune",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/fortune_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:frost_walker",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/frost_walker"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:frost_walker",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/frost_walker_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:frost_walker",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/frost_walker_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:impaling",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/impaling"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:impaling",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/impaling_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:impaling",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/impaling_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:impaling",
+            "levels": {
+              "min": 4,
+              "max": 4
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/impaling_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:impaling",
+            "levels": {
+              "min": 5,
+              "max": 5
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/impaling_5"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:infinity"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/infinity"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:knockback",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/knockback"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:knockback",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/knockback_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:looting",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/looting"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:looting",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/looting_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:looting",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/looting_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:loyalty",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/loyalty"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:loyalty",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/loyalty_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:loyalty",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/loyalty_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:luck_of_the_sea",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/luck_of_the_sea"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:luck_of_the_sea",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/luck_of_the_sea_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:luck_of_the_sea",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/luck_of_the_sea_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:lure",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/lure"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:lure",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/lure_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:lure",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/lure_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:mending"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/mending"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:multishot"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/multishot"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:piercing",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/piercing"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:piercing",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/piercing_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:piercing",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/piercing_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:piercing",
+            "levels": {
+              "min": 4,
+              "max": 4
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/piercing_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:power",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/power"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:power",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/power_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:power",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/power_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:power",
+            "levels": {
+              "min": 4,
+              "max": 4
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/power_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:power",
+            "levels": {
+              "min": 5,
+              "max": 5
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/power_5"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:projectile_protection",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/projectile_protection"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:projectile_protection",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/projectile_protection_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:projectile_protection",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/projectile_protection_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:projectile_protection",
+            "levels": {
+              "min": 4,
+              "max": 4
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/projectile_protection_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:protection",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/protection"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:protection",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/protection_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:protection",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/protection_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:protection",
+            "levels": {
+              "min": 4,
+              "max": 4
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/protection_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:punch",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/punch"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:punch",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/punch_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:quick_charge",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/quick_charge"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:quick_charge",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/quick_charge_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:quick_charge",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/quick_charge_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:respiration",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/respiration"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:respiration",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/respiration_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:respiration",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/respiration_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:riptide",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/riptide"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:riptide",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/riptide_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:riptide",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/riptide_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:sharpness",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/sharpness"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:sharpness",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/sharpness_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:sharpness",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/sharpness_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:sharpness",
+            "levels": {
+              "min": 4,
+              "max": 4
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/sharpness_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:sharpness",
+            "levels": {
+              "min": 5,
+              "max": 5
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/sharpness_5"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:silk_touch"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/silk_touch"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:smite",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/smite"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:smite",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/smite_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:smite",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/smite_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:smite",
+            "levels": {
+              "min": 4,
+              "max": 4
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/smite_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:smite",
+            "levels": {
+              "min": 5,
+              "max": 5
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/smite_5"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:soul_speed",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/soul_speed"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:soul_speed",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/soul_speed_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:soul_speed",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/soul_speed_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:sweeping_edge",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/sweeping_edge"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:sweeping_edge",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/sweeping_edge_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:sweeping_edge",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/sweeping_edge_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:swift_sneak",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/swift_sneak"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:swift_sneak",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/swift_sneak_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:swift_sneak",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/swift_sneak_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:thorns",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/thorns"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:thorns",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/thorns_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:thorns",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/thorns_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:unbreaking",
+            "levels": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/unbreaking"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:unbreaking",
+            "levels": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/unbreaking_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:unbreaking",
+            "levels": {
+              "min": 3,
+              "max": 3
+            }
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/unbreaking_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:vanishing_curse"
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/vanishing_curse"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:density",
+			"levels": {
+				"min": 1,
+				"max": 1
+			}
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/density"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:density",
+			"levels": {
+				"min": 2,
+				"max": 2
+			}
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/density_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:density",
+			"levels": {
+				"min": 3,
+				"max": 3
+			}
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/density_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:density",
+			"levels": {
+				"min": 4,
+				"max": 4
+			}
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/density_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:density",
+			"levels": {
+				"min": 5,
+				"max": 5
+			}
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/density_5"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:wind_burst",
+			"levels": {
+				"min": 1,
+				"max": 1
+			}
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/wind_burst"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:wind_burst",
+			"levels": {
+				"min": 2,
+				"max": 2
+			}
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/wind_burst_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:wind_burst",
+			"levels": {
+				"min": 3,
+				"max": 3
+			}
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/wind_burst_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:breach",
+			"levels": {
+				"min": 1,
+				"max": 1
+			}
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/breach"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:breach",
+			"levels": {
+				"min": 2,
+				"max": 2
+			}
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/breach_2"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:breach",
+			"levels": {
+				"min": 3,
+				"max": 3
+			}
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/breach_3"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:component",
+        "predicate": "stored_enchantments",
+        "value": [
+          {
+            "enchantments": "minecraft:breach",
+			"levels": {
+				"min": 4,
+				"max": 4
+			}
+          }
+        ],
+        "on_true": {
+          "type": "model",
+          "model": "minecraft:item/enchanted_book/breach_4"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      }
+    ]
+  }
+}

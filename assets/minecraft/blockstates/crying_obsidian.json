@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/crying_obsidian"
+      },
+      {
+        "model": "minecraft:block/crying_obsidian_mirrored"
+	  }
+    ]
+  }
+}

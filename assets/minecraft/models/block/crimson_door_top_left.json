@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_left",
+  "textures": {
+    "main": "minecraft:block/crimson_door_top",
+    "sides": "minecraft:block/crimson_door_sides"
+  }
+}

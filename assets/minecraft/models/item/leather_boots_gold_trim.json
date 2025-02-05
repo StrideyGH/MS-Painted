@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated_layers_leather_trim",
+  "textures": {
+		"layer0": "item/leather_boots",
+		"layer1": "item/leather_boots_overlay",
+		"trim": "trims/items/boots_trim_gold"
+  }
+}

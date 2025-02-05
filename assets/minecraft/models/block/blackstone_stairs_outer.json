@@ -1,0 +1,10 @@
+{
+	"parent": "block/outer_stairs_bordered",
+	"textures": {
+		"stairs_side": "block/blackstone_slab_side",
+		"particle": "block/blackstone",
+		"full_block": "block/blackstone",
+		"quarters": "block/blackstone_slab_side",
+		"slab_side": "block/blackstone_slab_side"
+	}
+}

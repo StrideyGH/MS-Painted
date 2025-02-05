@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	{ "model": "minecraft:block/mud" },
+	{ "model": "minecraft:block/mud", "y": 180, "x": 180 }
+	]
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "block/inner_stairs_bordered",
+	"textures": {
+		"quarters": "block/stone_slab_side",
+		"particle": "block/stone",
+		"full_block": "block/stone",
+		"stairs_side": "block/stone_slab_side"
+	}
+}

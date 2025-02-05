@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "test_block_mode=accept": {
+      "model": "minecraft:block/test_block_accept"
+    },
+    "test_block_mode=fail": [
+	{ "model": "minecraft:block/test_block_fail" },
+			{ "model": "minecraft:block/test_block_fail", "x": 90 },
+			{ "model": "minecraft:block/test_block_fail", "x": 180 },
+			{ "model": "minecraft:block/test_block_fail", "x": 270 },
+			{ "model": "minecraft:block/test_block_fail", "y": 90 },
+			{ "model": "minecraft:block/test_block_fail", "y": 90, "x": 90 },
+			{ "model": "minecraft:block/test_block_fail", "y": 90, "x": 180 },
+			{ "model": "minecraft:block/test_block_fail", "y": 90, "x": 270 },
+			{ "model": "minecraft:block/test_block_fail", "y": 180 },
+			{ "model": "minecraft:block/test_block_fail", "y": 180, "x": 90 },
+			{ "model": "minecraft:block/test_block_fail", "y": 180, "x": 180 },
+			{ "model": "minecraft:block/test_block_fail", "y": 180, "x": 270 },
+			{ "model": "minecraft:block/test_block_fail", "y": 270 },
+			{ "model": "minecraft:block/test_block_fail", "y": 270, "x": 90 },
+			{ "model": "minecraft:block/test_block_fail", "y": 270, "x": 180 },
+			{ "model": "minecraft:block/test_block_fail", "y": 270, "x": 270 }
+    ],
+    "test_block_mode=log": {
+      "model": "minecraft:block/test_block_log"
+    },
+    "test_block_mode=start": [
+	{ "model": "minecraft:block/test_block_start" },
+			{ "model": "minecraft:block/test_block_start", "x": 90 },
+			{ "model": "minecraft:block/test_block_start", "x": 180 },
+			{ "model": "minecraft:block/test_block_start", "x": 270 },
+			{ "model": "minecraft:block/test_block_start", "y": 90 },
+			{ "model": "minecraft:block/test_block_start", "y": 90, "x": 90 },
+			{ "model": "minecraft:block/test_block_start", "y": 90, "x": 180 },
+			{ "model": "minecraft:block/test_block_start", "y": 90, "x": 270 },
+			{ "model": "minecraft:block/test_block_start", "y": 180 },
+			{ "model": "minecraft:block/test_block_start", "y": 180, "x": 90 },
+			{ "model": "minecraft:block/test_block_start", "y": 180, "x": 180 },
+			{ "model": "minecraft:block/test_block_start", "y": 180, "x": 270 },
+			{ "model": "minecraft:block/test_block_start", "y": 270 },
+			{ "model": "minecraft:block/test_block_start", "y": 270, "x": 90 },
+			{ "model": "minecraft:block/test_block_start", "y": 270, "x": 180 },
+			{ "model": "minecraft:block/test_block_start", "y": 270, "x": 270 }
+    ]
+  }
+}

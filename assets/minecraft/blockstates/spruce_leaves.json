@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/spruce_leaves"
+            },
+            {
+                "model": "minecraft:block/spruce_leaves_mirrored"
+            }
+        ]
+    }
+}

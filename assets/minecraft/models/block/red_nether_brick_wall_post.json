@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_wall_post",
+	"textures": {
+		"particle": "block/red_nether_bricks",
+		"wall": "block/red_nether_brick_wall"
+	}
+}

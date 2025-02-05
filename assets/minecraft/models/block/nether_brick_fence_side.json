@@ -1,0 +1,8 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/fence_side",
+	"textures": {
+		"fence_side": "block/nether_brick_fence",
+		"particle": "block/nether_bricks"
+	}
+}

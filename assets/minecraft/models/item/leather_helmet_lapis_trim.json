@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated_layers_leather_trim",
+  "textures": {
+		"layer0": "item/leather_helmet",
+		"layer1": "item/leather_helmet_overlay",
+		"trim": "trims/items/helmet_trim_lapis"
+  }
+}

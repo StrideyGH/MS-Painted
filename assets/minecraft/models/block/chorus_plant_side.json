@@ -1,0 +1,21 @@
+{
+	"credit": "Created by Stridey",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/chorus_stem_side",
+		"inside": "block/chorus_stem_side"
+	},
+	"elements": [
+		{
+			"from": [4, 4, 0],
+			"to": [12, 12, 4],
+			"faces": {
+				"north": {"uv": [4, 4, 12, 12], "texture": "#inside", "cullface": "north"},
+				"east": {"uv": [4, 4, 5, 5], "texture": "#inside", "cullface": "north"},
+				"west": {"uv": [4, 4, 5, 5], "texture": "#inside", "cullface": "north"},
+				"up": {"uv": [4, 4, 5, 5], "texture": "#inside", "cullface": "north"},
+				"down": {"uv": [4, 4, 5, 5], "texture": "#inside", "cullface": "north"}
+			}
+		}
+	]
+}

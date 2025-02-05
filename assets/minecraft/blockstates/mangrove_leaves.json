@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/mangrove_leaves"
+            },
+            {
+                "model": "minecraft:block/mangrove_leaves_mirrored"
+            }
+        ]
+    }
+}

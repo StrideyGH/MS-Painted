@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated_layers_leather_trim",
+  "textures": {
+		"layer0": "item/leather_leggings",
+		"layer1": "item/leather_leggings_overlay",
+		"trim": "trims/items/leggings_trim_lapis"
+  }
+}

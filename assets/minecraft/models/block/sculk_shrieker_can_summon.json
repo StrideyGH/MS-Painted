@@ -1,0 +1,9 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/sculk_shrieker",
+	"textures": {
+		"side_overlay": "block/sculk_shrieker_side_overlay_can_summon",
+		"bottom_slab_top": "block/sculk_shrieker_inner_top_can_summon",
+		"side": "block/sculk_shrieker_side_can_summon"
+	}
+}

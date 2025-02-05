@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "axis=x": [
+		{ "model": "minecraft:block/jungle_wood", "x": 270, "y": 90 },
+		{ "model": "minecraft:block/jungle_wood_mirrored", "x": 270, "y": 90 },
+		{ "model": "minecraft:block/jungle_wood", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/jungle_wood_mirrored", "x": 90, "y": 90 }
+	],
+    "axis=y": [
+		{ "model": "minecraft:block/jungle_wood" },
+		{ "model": "minecraft:block/jungle_wood_mirrored" },
+		{ "model": "minecraft:block/jungle_wood", "x": 180 },
+		{ "model": "minecraft:block/jungle_wood_mirrored", "x": 180 }
+	],
+    "axis=z": [
+		{ "model": "minecraft:block/jungle_wood", "x": 90 },
+		{ "model": "minecraft:block/jungle_wood_mirrored", "x": 90 },
+		{ "model": "minecraft:block/jungle_wood", "x": 270 },
+		{ "model": "minecraft:block/jungle_wood_mirrored", "x": 270 }
+	]
+  }
+}

@@ -1,0 +1,51 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/block",
+	"textures": {
+		"stairs_side": "block/sandstone_stairs_side",
+		"top": "block/sandstone_top",
+		"bottom": "block/sandstone_bottom",
+		"slab_side": "block/sandstone_slab_side",
+		"particle": "block/sandstone",
+		"full_block": "block/sandstone"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 8, 16],
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#stairs_side", "cullface": "north"},
+				"east": {"uv": [0, 8, 16, 16], "texture": "#full_block", "cullface": "east"},
+				"south": {"uv": [16, 8, 0, 16], "texture": "#stairs_side", "cullface": "south"},
+				"west": {"uv": [0, 8, 16, 16], "texture": "#slab_side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [8, 8, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#stairs_side", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#full_block", "cullface": "east"},
+				"south": {"uv": [8, 0, 0, 8], "texture": "#stairs_side", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#slab_side"},
+				"up": {"uv": [0, 0, 16, 8], "rotation": 90, "texture": "#top", "cullface": "up"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_lefthand": {
+			"rotation": [75, -135, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"rotation": [0, -90, 0]
+		}
+	}
+}

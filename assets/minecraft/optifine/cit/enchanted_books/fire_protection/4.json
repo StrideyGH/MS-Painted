@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "optifine/cit/enchanted_books/fire_protection/4"
+	}
+}

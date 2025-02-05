@@ -1,0 +1,136 @@
+{
+	"credit": "Created by Stridey",
+	"ambientocclusion": false,
+	"textures": {
+		"top": "block/cauldron_top",
+		"particle": "block/cauldron_side",
+		"side": "block/cauldron_side",
+		"inside": "block/cauldron_inner",
+		"content": "#content"
+	},
+	"elements": [
+		{
+			"from": [0, 3, 0],
+			"to": [2, 16, 16],
+			"faces": {
+				"north": {"uv": [14, 0, 16, 13], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 13], "texture": "#side"},
+				"south": {"uv": [0, 0, 2, 13], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 13], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 2, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [0, 0, 2, 16], "texture": "#inside"}
+			}
+		},
+		{
+			"from": [2, 3, 2],
+			"to": [14, 4, 14],
+			"faces": {
+				"up": {"uv": [2, 2, 14, 14], "texture": "#inside"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#inside"}
+			}
+		},
+		{
+			"from": [14, 3, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 13], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 13], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [14, 0, 16, 13], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 13], "texture": "#side"},
+				"up": {"uv": [14, 0, 16, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [14, 0, 16, 16], "texture": "#inside"}
+			}
+		},
+		{
+			"from": [2, 3, 0],
+			"to": [14, 16, 2],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 13], "texture": "#side", "cullface": "north"},
+				"south": {"uv": [2, 0, 14, 13], "texture": "#side"},
+				"up": {"uv": [2, 0, 14, 2], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [2, 14, 14, 16], "texture": "#inside"}
+			}
+		},
+		{
+			"from": [2, 3, 14],
+			"to": [14, 16, 16],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 13], "texture": "#side"},
+				"south": {"uv": [2, 0, 14, 13], "texture": "#side", "cullface": "south"},
+				"up": {"uv": [2, 14, 14, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [2, 0, 14, 2], "texture": "#inside"}
+			}
+		},
+		{
+			"from": [16, 0, 12],
+			"to": [16, 3, 16],
+			"faces": {
+				"east": {"uv": [0, 13, 4, 16], "texture": "#side", "cullface": "east"},
+				"west": {"uv": [12, 13, 16, 16], "texture": "#side", "cullface": "east"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [0, 3, 4],
+			"faces": {
+				"east": {"uv": [12, 13, 16, 16], "texture": "#side", "cullface": "west"},
+				"west": {"uv": [0, 13, 4, 16], "texture": "#side", "cullface": "west"}
+			}
+		},
+		{
+			"from": [12, 0, 0],
+			"to": [16, 3, 0],
+			"faces": {
+				"north": {"uv": [0, 13, 4, 16], "texture": "#side", "cullface": "north"},
+				"south": {"uv": [12, 13, 16, 16], "texture": "#side", "cullface": "north"}
+			}
+		},
+		{
+			"from": [16, 0, 0],
+			"to": [16, 3, 4],
+			"faces": {
+				"east": {"uv": [12, 13, 16, 16], "texture": "#side", "cullface": "east"},
+				"west": {"uv": [0, 13, 4, 16], "texture": "#side", "cullface": "east"}
+			}
+		},
+		{
+			"from": [0, 0, 16],
+			"to": [4, 3, 16],
+			"faces": {
+				"north": {"uv": [12, 13, 16, 16], "texture": "#side", "cullface": "south"},
+				"south": {"uv": [0, 13, 4, 16], "texture": "#side", "cullface": "south"}
+			}
+		},
+		{
+			"from": [0, 0, 12],
+			"to": [0, 3, 16],
+			"faces": {
+				"east": {"uv": [0, 13, 4, 16], "texture": "#side", "cullface": "west"},
+				"west": {"uv": [12, 13, 16, 16], "texture": "#side", "cullface": "west"}
+			}
+		},
+		{
+			"from": [12, 0, 16],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 13, 4, 16], "texture": "#side", "cullface": "south"},
+				"south": {"uv": [12, 13, 16, 16], "texture": "#side", "cullface": "south"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [4, 3, 0],
+			"faces": {
+				"north": {"uv": [12, 13, 16, 16], "texture": "#side", "cullface": "north"},
+				"south": {"uv": [0, 13, 4, 16], "texture": "#side", "cullface": "north"}
+			}
+		},
+		{
+			"from": [2, 7, 2],
+			"to": [14, 12, 14],
+			"faces": {
+				"up": {"uv": [2, 2, 14, 14], "texture": "#content", "tintindex": 0}
+			}
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/netherite_block"
+      },
+      {
+        "model": "minecraft:block/netherite_block",
+        "y": 180
+      }
+    ]
+  }
+}

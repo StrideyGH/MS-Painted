@@ -1,0 +1,33 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/block",
+	"textures": {
+		"top": "block/stonecutter_top",
+		"particle": "block/stonecutter_bottom",
+		"bottom": "block/stonecutter_bottom",
+		"side": "block/stonecutter_side",
+		"saw": "block/stonecutter_saw"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 9, 16],
+			"faces": {
+				"north": {"uv": [0, 7, 16, 16], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 7, 16, 16], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 7, 16, 16], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 7, 16, 16], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [0, 9, 8],
+			"to": [16, 17, 8],
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#saw", "tintindex": 0},
+				"south": {"uv": [0, 8, 16, 16], "texture": "#saw", "tintindex": 0}
+			}
+		}
+	]
+}

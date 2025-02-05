@@ -1,0 +1,11 @@
+{
+	"parent": "block/sandstone_stairs_outer_upsidedown",
+	"textures": {
+		"quarters": "block/red_sandstone_quarters",
+		"slab_side": "block/red_sandstone_slab_side",
+		"stairs_side": "block/red_sandstone_stairs_side_upsidedown",
+		"top": "block/red_sandstone_top",
+		"particle": "block/red_sandstone",
+		"bottom": "block/red_sandstone_quarters2"
+	}
+}

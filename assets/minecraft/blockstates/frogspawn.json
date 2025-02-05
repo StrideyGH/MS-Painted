@@ -1,0 +1,10 @@
+{
+	"variants": {
+        "": [
+      { "model": "minecraft:block/frogspawn", "y": 0 },
+      { "model": "minecraft:block/frogspawn", "y": 90 },
+      { "model": "minecraft:block/frogspawn", "y": 180 },
+      { "model": "minecraft:block/frogspawn", "y": 270 }
+        ]
+    }
+}
