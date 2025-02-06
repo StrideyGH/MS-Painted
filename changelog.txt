@@ -17,3 +17,4 @@ ENTITIES
 
 OTHER
 ---
++ added appleskin support
