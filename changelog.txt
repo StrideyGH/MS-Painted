@@ -1,5 +1,5 @@
 	
-	MS Painted for 1.21-25w06a (v2.34)
+	MS Painted for 1.21-25w06a (v2.33.1)
 	
 BLOCKS
 ---
@@ -9,6 +9,8 @@ BLOCKS
 ITEMS
 ---
 ~ retextured rabbit stew
+~ retextured suspicious stew
+~ retextured beetroot soup
 ~ fixed bowl
 
 ENTITIES
