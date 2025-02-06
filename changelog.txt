@@ -3,10 +3,12 @@
 	
 BLOCKS
 ---
-
+~ retextured cobbled deepslate
+~ tweaked clay
 
 ITEMS
 ---
+~ retextured rabbit stew
 ~ fixed bowl
 
 ENTITIES
