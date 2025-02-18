@@ -1,5 +1,5 @@
 	
-	MS Painted for 1.21-25w06a (v2.34)
+	MS Painted for 1.21-25w07a (v2.34)
 	
 BLOCKS
 ---
@@ -11,7 +11,11 @@ ITEMS
 
 ENTITIES
 ---
-
+~ retextured drowned
+~ updated cold cow (mirrored horns) (25w07a+)
 
 OTHER
 ---
++ textured trial chambers and plains village map icons
+~ fixed map icons
+~ animated bubble particle
