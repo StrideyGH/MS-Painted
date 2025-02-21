@@ -1,42 +1,46 @@
 ﻿{
   "pack": {
     "pack_format": 15,
-	"supported_formats": { "min_inclusive": 15, "max_inclusive": 52 },
+	"supported_formats": { "min_inclusive": 15, "max_inclusive": 53},
     "description": "\u00a7eMS Painted\n\u00a77By Stridey"
   },
 	"overlays": {
 		"entries": [
 			{
-				"formats": {"min_inclusive": 35, "max_inclusive": 52},
+				"formats": {"min_inclusive": 35, "max_inclusive": 53},
 				"directory": "overlay_35"
 			},
 			{
-				"formats": {"min_inclusive": 40, "max_inclusive": 52},
+				"formats": {"min_inclusive": 40, "max_inclusive": 53},
 				"directory": "overlay_40"
 			},
 			{
-				"formats": {"min_inclusive": 47, "max_inclusive": 52},
+				"formats": {"min_inclusive": 47, "max_inclusive": 53},
 				"directory": "overlay_47"
 			},
 			{
-				"formats": {"min_inclusive": 48, "max_inclusive": 52},
+				"formats": {"min_inclusive": 48, "max_inclusive": 53},
 				"directory": "overlay_48"
 			},
 			{
-				"formats": {"min_inclusive": 49, "max_inclusive": 52},
+				"formats": {"min_inclusive": 49, "max_inclusive": 53},
 				"directory": "overlay_49"
 			},
 			{
-				"formats": {"min_inclusive": 50, "max_inclusive": 52},
+				"formats": {"min_inclusive": 50, "max_inclusive": 53},
 				"directory": "overlay_50"
 			},
 			{
-				"formats": {"min_inclusive": 51, "max_inclusive": 52},
+				"formats": {"min_inclusive": 51, "max_inclusive": 53},
 				"directory": "overlay_51"
 			},
 			{
-				"formats": {"min_inclusive": 52, "max_inclusive": 52},
+				"formats": {"min_inclusive": 52, "max_inclusive": 53},
 				"directory": "overlay_52"
+			},
+			{
+				"formats": {"min_inclusive": 53, "max_inclusive": 53},
+				"directory": "overlay_53"
 			}
 		]
 	}
