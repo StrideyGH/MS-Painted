@@ -2,7 +2,7 @@
 	"parent": "block/template_wall_side",
 	"textures": {
 		"particle": "block/cobbled_deepslate",
-		"top": "block/cobbled_deepslate_wall",
+		"top": "block/cobbled_deepslate",
 		"side": "block/cobbled_deepslate"
 	}
 }

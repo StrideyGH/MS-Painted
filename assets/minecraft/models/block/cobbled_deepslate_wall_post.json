@@ -2,6 +2,6 @@
 	"parent": "block/template_wall_post",
 	"textures": {
 		"particle": "block/cobbled_deepslate",
-		"wall": "block/cobbled_deepslate_wall"
+		"wall": "block/cobbled_deepslate"
 	}
 }

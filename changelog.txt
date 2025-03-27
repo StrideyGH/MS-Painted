@@ -1,19 +1,21 @@
 	
-	MS Painted for 1.21-25w08a (v2.35)
+	MS Painted for 1.21-1.21.5 (v2.36)
 	
 BLOCKS
 ---
-
+~ remodelled scaffolding
+~ retextured soul sand and added random rotations
++ added windy animation to short grass
+~ fixed horizontal birch log
 
 ITEMS
 ---
-+ added wings to phantom spawn egg
+
 
 ENTITIES
 ---
-+ textured sheep wool undercoat
-~ fixed sheep wool
-~ tweaked phantom
+- removed all baby mob variants besides villager (optifine/random entity features)
 
 OTHER
 ---
+~ updated to 1.21.5-pre1
