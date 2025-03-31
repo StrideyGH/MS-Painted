@@ -3,14 +3,19 @@
 	
 BLOCKS
 ---
++ added windy animation to short grass and tall grass
++ added animations to all leaves
++ added animation to bush
++ added colourmaps to leaf litter
+~ reanimated water
+~ remodelled bamboo
 ~ remodelled scaffolding
 ~ retextured soul sand and added random rotations
-+ added windy animation to short grass
 ~ fixed horizontal birch log
 
 ITEMS
 ---
-
++ textured bouquet painting
 
 ENTITIES
 ---
@@ -18,4 +23,6 @@ ENTITIES
 
 OTHER
 ---
-~ updated to 1.21.5-pre1
++ textured bouquet painting
+~ retextured all falling leaf particles
+~ updated to 1.21.5

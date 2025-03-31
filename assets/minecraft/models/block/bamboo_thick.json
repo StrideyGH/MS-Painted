@@ -1,0 +1,30 @@
+{
+	"credit": "Created by Stridey",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#cross",
+		"cross": "block/bamboo"
+	},
+	"elements": [
+		{
+			"from": [5.8, 0, 8],
+			"to": [10.2, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [5.5, 0, 10.5, 16], "texture": "#cross"},
+				"south": {"uv": [5.5, 0, 10.5, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [8, 0, 5.8],
+			"to": [8, 16, 10.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [5.5, 0, 10.5, 16], "texture": "#cross"},
+				"west": {"uv": [5.5, 0, 10.5, 16], "texture": "#cross"}
+			}
+		}
+	]
+}

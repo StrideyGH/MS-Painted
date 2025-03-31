@@ -310,7 +310,7 @@
         "when": "bouquet",
         "model": {
           "type": "model",
-          "model": "item/painting/wip"
+          "model": "item/painting/bouquet"
         }
       },
       {
