@@ -1,6 +1,15 @@
 ﻿{
   "pack": {
     "pack_format": 55,
+	"supported_formats": [55,57],
     "description": "\u00a7eMS Painted\n\u00a77By Stridey"
-  }
+  },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 55, "max_inclusive": 55},
+				"directory": "overlay_55"
+			}
+		]
+	}
 }

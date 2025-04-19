@@ -1,0 +1,8 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/dried_ghast_hydration_0",
+	"textures": {
+		"particle": "block/calcite",
+		"texture": "block/dried_ghast_hydration_3"
+	}
+}
