@@ -1,38 +1,22 @@
 	
-	MS Painted for 1.21.5-25w16a (v2.36)
+	MS Painted for 1.21.5-25w18a (v2.37)
 	
 BLOCKS
 ---
-+ textured all dried ghast stages
-+ added windy animation to short grass and tall grass
-+ added animations to all leaves
-+ added animation to bush
-+ added colourmaps to leaf litter (optifine/continity)
-~ reanimated water
-~ remodelled bamboo
-~ remodelled scaffolding
-~ retextured soul sand and added random rotations
-~ retextured all wooden fences
-~ fixed horizontal birch log
+
 
 ITEMS
 ---
-+ textured dried ghast
-+ textured all happy ghast harnesses
-+ textured happy ghast spawn egg
-+ textured bouquet painting
-~ retextured clock
-~ tweaked ghast spawn egg
-~ fixed chest, trapped chest, and ender chest rendering issues
+~ retextured iron golem spawn egg
+- removed stray pixels on elytra
 
 ENTITIES
 ---
-+ textured happy ghastling and happy ghast
-~ retextured ghast
-- removed all baby mob variants besides villager (optifine/random entity features)
+~ retextured iron golem and cracked overlays
+~ recoloured lead using shader (credit to ioblackshaw of https://enchanted.games)
+~ retextured lead knot
+~ retextured squid and glow squid
 
 OTHER
 ---
-+ textured bouquet painting
-~ retextured all falling leaf particles
-~ updated to 1.21.5
++ textured locator bar and styles, including bowtie
