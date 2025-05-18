@@ -1,0 +1,6 @@
+{
+	"parent": "block/template_bed_occupied",
+	"textures": {
+		"texture": "entity/bed/light_blue"
+	}
+}

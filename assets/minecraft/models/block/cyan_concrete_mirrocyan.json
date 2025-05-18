@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_mirrocyan_all",
+  "textures": {
+    "all": "minecraft:block/cyan_concrete"
+  }
+}

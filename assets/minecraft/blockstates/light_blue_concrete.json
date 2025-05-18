@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/light_blue_concrete"
+      },
+      {
+        "model": "minecraft:block/light_blue_concrete_mirrored"
+      },
+      {
+        "model": "minecraft:block/light_blue_concrete",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/light_blue_concrete_mirrored",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/light_blue_concrete_flipped"
+      },
+      {
+        "model": "minecraft:block/light_blue_concrete_mirrored_flipped"
+      },
+      {
+        "model": "minecraft:block/light_blue_concrete_flipped",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/light_blue_concrete_mirrored_flipped",
+        "y": 180
+      }
+    ]
+  }
+}

@@ -2,6 +2,6 @@
 	"parent": "item/generated",
 	"textures": {
 		"layer0": "item/water_bottle",
-		"particle": "#layer0"
+		"particle": "item/water_bottle_empty"
 	}
 }

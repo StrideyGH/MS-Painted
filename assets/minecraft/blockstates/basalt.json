@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "axis=x": [
+		{ "model": "minecraft:block/basalt", "x": 270, "y": 90 },
+		{ "model": "minecraft:block/basalt_mirrored", "x": 270, "y": 90 },
+		{ "model": "minecraft:block/basalt", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/basalt_mirrored", "x": 90, "y": 90 }
+	],
+    "axis=y": [
+		{ "model": "minecraft:block/basalt" },
+		{ "model": "minecraft:block/basalt_mirrored" },
+		{ "model": "minecraft:block/basalt", "x": 180 },
+		{ "model": "minecraft:block/basalt_mirrored", "x": 180 }
+	],
+    "axis=z": [
+		{ "model": "minecraft:block/basalt", "x": 90 },
+		{ "model": "minecraft:block/basalt_mirrored", "x": 90 },
+		{ "model": "minecraft:block/basalt", "x": 270 },
+		{ "model": "minecraft:block/basalt_mirrored", "x": 270 }
+	]
+  }
+}

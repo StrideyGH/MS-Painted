@@ -1,10 +1,10 @@
 {
 	"parent": "block/outer_stairs_bordered",
 	"textures": {
-		"stairs_side": "block/andesite_slab_side",
+		"stairs_side": "block/andesite_quarters",
 		"particle": "block/andesite",
 		"full_block": "block/andesite",
-		"quarters": "block/andesite_slab_side",
-		"slab_side": "block/andesite_slab_side"
+		"quarters": "block/andesite_quarters",
+		"slab_side": "block/andesite_quarters"
 	}
 }

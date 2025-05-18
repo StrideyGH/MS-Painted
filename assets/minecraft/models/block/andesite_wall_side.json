@@ -2,7 +2,7 @@
 	"parent": "block/template_wall_side",
 	"textures": {
 		"particle": "block/andesite",
-		"top": "block/andesite_slab_side",
+		"top": "block/andesite_quarters",
 		"side": "block/andesite"
 	}
 }

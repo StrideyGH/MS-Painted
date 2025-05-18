@@ -1,0 +1,8 @@
+{
+	"parent": "block/template_wall_side",
+	"textures": {
+		"particle": "block/andesite3",
+		"top": "block/andesite_quarters3",
+		"side": "block/andesite3"
+	}
+}

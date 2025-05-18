@@ -9,6 +9,11 @@
             "type": "directory",
             "source": "entity/piglin",
             "prefix": "entity/piglin/"
+        },
+		{
+            "type": "directory",
+            "source": "entity/bed",
+            "prefix": "entity/bed/"
         }
     ]
 }

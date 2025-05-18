@@ -1,8 +1,9 @@
 {
   "textures": [
-    "minecraft:pale_oak_leaf",
-    "minecraft:pale_oak_leaf",
-    "minecraft:pale_oak_leaf_broken",
-    "minecraft:pale_oak_leaf_broken"
+    "minecraft:pale_oak_leaf_0",
+    "minecraft:pale_oak_leaf_1",
+    "minecraft:pale_oak_leaf_1",
+    "minecraft:pale_oak_leaf_1",
+    "minecraft:pale_oak_leaf_1"
   ]
 }

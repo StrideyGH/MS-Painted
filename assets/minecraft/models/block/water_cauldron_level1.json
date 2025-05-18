@@ -7,8 +7,8 @@
 		"side": "block/cauldron_side",
 		"inside": "block/cauldron_inner",
 		"side_inner": "block/cauldron_side_inner",
-		"particle": "block/cauldron_break",
-		"water": "block/cauldron_water"
+		"water": "block/cauldron_water",
+		"particle": "block/cauldron_break"
 	},
 	"elements": [
 		{
@@ -27,7 +27,7 @@
 			"from": [2, 3, 2],
 			"to": [14, 8, 14],
 			"faces": {
-				"up": {"uv": [2, 2, 14, 14], "texture": "#water", "cullface": "up"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#water", "cullface": "up"},
 				"down": {"uv": [2, 2, 14, 14], "texture": "#inside"}
 			}
 		},

@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"": [
+			{ "model": "minecraft:block/powder_snow" },
+			{ "model": "minecraft:block/powder_snow", "x": 90 },
+			{ "model": "minecraft:block/powder_snow", "x": 180 },
+			{ "model": "minecraft:block/powder_snow", "x": 270 },
+			{ "model": "minecraft:block/powder_snow", "y": 90 },
+			{ "model": "minecraft:block/powder_snow", "y": 90, "x": 90 },
+			{ "model": "minecraft:block/powder_snow", "y": 90, "x": 180 },
+			{ "model": "minecraft:block/powder_snow", "y": 90, "x": 270 },
+			{ "model": "minecraft:block/powder_snow", "y": 180 },
+			{ "model": "minecraft:block/powder_snow", "y": 180, "x": 90 },
+			{ "model": "minecraft:block/powder_snow", "y": 180, "x": 180 },
+			{ "model": "minecraft:block/powder_snow", "y": 180, "x": 270 },
+			{ "model": "minecraft:block/powder_snow", "y": 270 },
+			{ "model": "minecraft:block/powder_snow", "y": 270, "x": 90 },
+			{ "model": "minecraft:block/powder_snow", "y": 270, "x": 180 },
+			{ "model": "minecraft:block/powder_snow", "y": 270, "x": 270 }
+		]
+	}
+}

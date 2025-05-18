@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_wall_post",
+	"textures": {
+		"particle": "block/andesite2",
+		"wall": "block/andesite_quarters2"
+	}
+}

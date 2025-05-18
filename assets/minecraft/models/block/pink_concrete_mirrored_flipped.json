@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_mirrored_flipped_all",
+  "textures": {
+    "all": "minecraft:block/pink_concrete"
+  }
+}

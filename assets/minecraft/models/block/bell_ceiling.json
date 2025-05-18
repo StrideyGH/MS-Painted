@@ -1,5 +1,6 @@
 {
 	"credit": "Created by Stridey",
+	"ambientocclusion": false,
 	"textures": {
 		"bar": "block/bell_floor_beam",
 		"particle": "block/gold_block"

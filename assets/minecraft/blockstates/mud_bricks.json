@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+	{ "model": "minecraft:block/mud_bricks2" },
+	{ "model": "minecraft:block/mud_bricks3" },
+	{ "model": "minecraft:block/mud_bricks4" }
+	]
+  }
+}

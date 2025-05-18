@@ -1,0 +1,9 @@
+{
+	"parent": "block/stairs_bordered",
+	"textures": {
+		"particle": "block/andesite_quarters3",
+		"side": "block/andesite_quarters3",
+		"top": "block/andesite_quarters3",
+		"bottom": "block/andesite3"
+	}
+}

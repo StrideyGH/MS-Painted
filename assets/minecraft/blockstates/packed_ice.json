@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+	{ "model": "minecraft:block/packed_ice" },
+	{ "model": "minecraft:block/packed_ice", "y": 180, "x": 180 }
+	]
+  }
+}

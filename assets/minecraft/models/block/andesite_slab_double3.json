@@ -1,0 +1,7 @@
+{
+	"parent": "block/slab_double",
+	"textures": {
+		"ends": "block/andesite3",
+		"sides": "block/andesite_quarters3"
+	}
+}

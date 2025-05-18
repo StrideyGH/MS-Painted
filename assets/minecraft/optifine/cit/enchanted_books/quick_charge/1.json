@@ -1,6 +1,0 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "optifine/cit/enchanted_books/quick_charge/1"
-	}
-}

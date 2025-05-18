@@ -3,21 +3,20 @@
 	"ambientocclusion": false,
 	"textures": {
 		"base_top": "block/lever_base_powered",
-		"base_side": "block/gray_concrete",
 		"lever": "block/lever_powered",
-		"particle": "block/cobblestone"
+		"particle": "item/lever"
 	},
 	"elements": [
 		{
 			"from": [5, 0, 4],
 			"to": [11, 3, 12],
 			"faces": {
-				"north": {"uv": [5, 0, 11, 3], "texture": "#base_side"},
-				"east": {"uv": [4, 0, 12, 3], "texture": "#base_side"},
-				"south": {"uv": [5, 0, 11, 3], "texture": "#base_side"},
-				"west": {"uv": [4, 0, 12, 3], "texture": "#base_side"},
+				"north": {"uv": [0, 0, 1, 1], "texture": "#base_top"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#base_top"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#base_top"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#base_top"},
 				"up": {"uv": [0, 0, 12, 16], "texture": "#base_top"},
-				"down": {"uv": [5, 4, 11, 12], "texture": "#base_side", "cullface": "down"}
+				"down": {"uv": [0, 0, 1, 1], "texture": "#base_top", "cullface": "down"}
 			}
 		},
 		{
@@ -30,6 +29,19 @@
 				"south": {"uv": [7, 6, 9, 16], "texture": "#lever"},
 				"west": {"uv": [7, 6, 9, 16], "texture": "#lever"},
 				"up": {"uv": [7, 6, 9, 8], "texture": "#lever"}
+			}
+		},
+		{
+			"from": [6.5, 8.5, 6.5],
+			"to": [9.5, 11.5, 9.5],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 1, 8]},
+			"faces": {
+				"north": {"uv": [7, 6, 9, 8.125], "texture": "#lever"},
+				"east": {"uv": [7, 6, 9, 8.125], "texture": "#lever"},
+				"south": {"uv": [7, 6, 9, 8.125], "texture": "#lever"},
+				"west": {"uv": [7, 6, 9, 8.125], "texture": "#lever"},
+				"up": {"uv": [7, 6, 9, 8], "texture": "#lever"},
+				"down": {"uv": [7, 6, 7.25, 6.25], "texture": "#lever"}
 			}
 		}
 	]

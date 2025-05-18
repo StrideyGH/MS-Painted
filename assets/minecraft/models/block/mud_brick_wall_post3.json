@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_wall_post",
+	"textures": {
+		"particle": "block/mud_brick_wall3_break",
+		"wall": "block/mud_brick_wall3"
+	}
+}

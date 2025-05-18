@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/beehive_empty",
+  "textures": {
+    "bottom": "minecraft:block/beehive_end2",
+    "top": "minecraft:block/beehive_end2"
+  }
+}

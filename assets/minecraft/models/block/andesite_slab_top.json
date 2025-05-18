@@ -3,6 +3,6 @@
     "textures": {
         "bottom": "block/andesite",
         "top": "block/andesite",
-        "side": "block/andesite_slab_side"
+        "side": "block/andesite_quarters"
     }
 }

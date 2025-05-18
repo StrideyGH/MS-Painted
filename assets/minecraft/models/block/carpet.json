@@ -1,6 +1,7 @@
 {
 	"credit": "Created by Stridey",
 	"parent": "block/template_carpet",
+	"ambientocclusion": true,
 	"textures": {
 		"particle": "#wool",
 		"wool": "#wool"

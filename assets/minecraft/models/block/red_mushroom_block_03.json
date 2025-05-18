@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/template_single_face",
-  "textures": {
-    "texture": "block/red_mushroom_block_03",
-    "particle": "block/red_mushroom_block_03"
-  }
-}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north,occupied=true,part=foot": {
+      "model": "block/pink_bed_occupied"
+    },
+    "facing=south,occupied=true,part=foot": {
+      "y": 180,
+      "model": "block/pink_bed_occupied"
+    },
+    "facing=east,occupied=true,part=foot": {
+	  "y": 90, 
+      "model": "block/pink_bed_occupied"
+    },
+    "facing=west,occupied=true,part=foot": {
+      "y": 270,
+      "model": "block/pink_bed_occupied"
+    }
+  }
+}

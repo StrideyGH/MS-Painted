@@ -1,1 +1,22 @@
-{"variants":{"":[{"model":"minecraft:block/calcite"},{"model":"minecraft:block/calcite","x":90},{"model":"minecraft:block/calcite","x":180},{"model":"minecraft:block/calcite","x":270},{"model":"minecraft:block/calcite","y":90},{"model":"minecraft:block/calcite","y":90,"x":90},{"model":"minecraft:block/calcite","y":90,"x":180},{"model":"minecraft:block/calcite","y":90,"x":270},{"model":"minecraft:block/calcite","y":180},{"model":"minecraft:block/calcite","y":180,"x":90},{"model":"minecraft:block/calcite","y":180,"x":180},{"model":"minecraft:block/calcite","y":180,"x":270},{"model":"minecraft:block/calcite","y":270},{"model":"minecraft:block/calcite","y":270,"x":90},{"model":"minecraft:block/calcite","y":270,"x":180},{"model":"minecraft:block/calcite","y":270,"x":270}]}}
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/calcite" },
+      { "model": "minecraft:block/calcite", "x": 90 },
+      { "model": "minecraft:block/calcite", "x": 180 },
+      { "model": "minecraft:block/calcite", "x": 270 },
+      { "model": "minecraft:block/calcite", "y": 90 },
+      { "model": "minecraft:block/calcite", "y": 90, "x": 90 },
+      { "model": "minecraft:block/calcite", "y": 90, "x": 180 },
+      { "model": "minecraft:block/calcite", "y": 90, "x": 270 },
+      { "model": "minecraft:block/calcite", "y": 180 },
+      { "model": "minecraft:block/calcite", "y": 180, "x": 90 },
+      { "model": "minecraft:block/calcite", "y": 180, "x": 180 },
+      { "model": "minecraft:block/calcite", "y": 180, "x": 270 },
+      { "model": "minecraft:block/calcite", "y": 270 },
+      { "model": "minecraft:block/calcite", "y": 270, "x": 90 },
+      { "model": "minecraft:block/calcite", "y": 270, "x": 180 },
+      { "model": "minecraft:block/calcite", "y": 270, "x": 270 }
+    ]
+  }
+}

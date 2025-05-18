@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/andesite" },
+            { "model": "minecraft:block/andesite2" },
+            { "model": "minecraft:block/andesite3" },
+            { "model": "minecraft:block/andesite4" },
+            { "model": "minecraft:block/andesite5" }
+        ]
+    }
+}

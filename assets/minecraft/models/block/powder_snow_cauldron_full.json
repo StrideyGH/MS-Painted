@@ -1,6 +1,6 @@
 {
 	"parent": "block/water_cauldron_full",
 	"textures": {
-		"water": "block/cauldron_powder_snow"
+		"water": "block/powder_snow"
 	}
 }

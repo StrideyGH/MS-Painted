@@ -1,0 +1,6 @@
+{
+	"parent": "block/beehive_honey",
+	"textures": {
+		"end": "block/beehive_end2"
+	}
+}

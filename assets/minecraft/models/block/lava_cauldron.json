@@ -1,6 +1,6 @@
 {
 	"parent": "block/water_cauldron_full",
 	"textures": {
-		"water": "block/cauldron_lava"
+		"water": "block/lava_still"
 	}
 }
