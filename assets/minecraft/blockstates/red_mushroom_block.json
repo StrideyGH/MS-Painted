@@ -16,8 +16,7 @@
 				{ "model": "block/red_mushroom_block9", "uvlock": true },
 				{ "model": "block/red_mushroom_block10", "uvlock": true },
 				{ "model": "block/red_mushroom_block11", "uvlock": true },
-				{ "model": "block/red_mushroom_block12", "uvlock": true },
-				{ "model": "block/red_mushroom_block13", "uvlock": true }
+				{ "model": "block/red_mushroom_block12", "uvlock": true }
 			]
 		},
 		{
@@ -36,8 +35,7 @@
 				{ "model": "block/red_mushroom_block9", "y": 90, "uvlock": true },
 				{ "model": "block/red_mushroom_block10", "y": 90, "uvlock": true },
 				{ "model": "block/red_mushroom_block11", "y": 90, "uvlock": true },
-				{ "model": "block/red_mushroom_block12", "y": 90, "uvlock": true },
-				{ "model": "block/red_mushroom_block13", "y": 90, "uvlock": true }
+				{ "model": "block/red_mushroom_block12", "y": 90, "uvlock": true }
 			]
 		},
 		{
@@ -56,8 +54,7 @@
 				{ "model": "block/red_mushroom_block9", "y": 180, "uvlock": true },
 				{ "model": "block/red_mushroom_block10", "y": 180, "uvlock": true },
 				{ "model": "block/red_mushroom_block11", "y": 180, "uvlock": true },
-				{ "model": "block/red_mushroom_block12", "y": 180, "uvlock": true },
-				{ "model": "block/red_mushroom_block13", "y": 180, "uvlock": true }
+				{ "model": "block/red_mushroom_block12", "y": 180, "uvlock": true }
 			]
 		},
 		{
@@ -65,7 +62,7 @@
 				"west": "true"
 			},
 			"apply": [
-				{ "model": "block/red_mushroom_block", "y": 270, "uvlock": true },
+				{ "model": "block/red_mushroom_block",  "y": 270, "uvlock": true },
 				{ "model": "block/red_mushroom_block2", "y": 270, "uvlock": true },
 				{ "model": "block/red_mushroom_block3", "y": 270, "uvlock": true },
 				{ "model": "block/red_mushroom_block4", "y": 270, "uvlock": true },
@@ -76,8 +73,7 @@
 				{ "model": "block/red_mushroom_block9", "y": 270, "uvlock": true },
 				{ "model": "block/red_mushroom_block10", "y": 270, "uvlock": true },
 				{ "model": "block/red_mushroom_block11", "y": 270, "uvlock": true },
-				{ "model": "block/red_mushroom_block12", "y": 270, "uvlock": true },
-				{ "model": "block/red_mushroom_block13", "y": 270, "uvlock": true }
+				{ "model": "block/red_mushroom_block12", "y": 270, "uvlock": true }
 			]
 		},
 		{
@@ -85,7 +81,7 @@
 				"up": "true"
 			},
 			"apply": [
-				{ "model": "block/red_mushroom_block", "x": 270, "uvlock": true },
+				{ "model": "block/red_mushroom_block",  "x": 270, "uvlock": true },
 				{ "model": "block/red_mushroom_block2", "x": 270, "uvlock": true },
 				{ "model": "block/red_mushroom_block3", "x": 270, "uvlock": true },
 				{ "model": "block/red_mushroom_block4", "x": 270, "uvlock": true },
@@ -96,16 +92,15 @@
 				{ "model": "block/red_mushroom_block9", "x": 270, "uvlock": true },
 				{ "model": "block/red_mushroom_block10", "x": 270, "uvlock": true },
 				{ "model": "block/red_mushroom_block11", "x": 270, "uvlock": true },
-				{ "model": "block/red_mushroom_block12", "x": 270, "uvlock": true },
-				{ "model": "block/red_mushroom_block13", "x": 270, "uvlock": true }
-			]
+				{ "model": "block/red_mushroom_block12", "x": 270, "uvlock": true }
+		  ]
 		},
 		{
 			"when": {
 				"down": "true"
 			},
 			"apply": [
-				{ "model": "block/red_mushroom_block", "x": 90, "uvlock": true },
+				{ "model": "block/red_mushroom_block",  "x": 90, "uvlock": true },
 				{ "model": "block/red_mushroom_block2", "x": 90, "uvlock": true },
 				{ "model": "block/red_mushroom_block3", "x": 90, "uvlock": true },
 				{ "model": "block/red_mushroom_block4", "x": 90, "uvlock": true },
@@ -116,8 +111,7 @@
 				{ "model": "block/red_mushroom_block9", "x": 90, "uvlock": true },
 				{ "model": "block/red_mushroom_block10", "x": 90, "uvlock": true },
 				{ "model": "block/red_mushroom_block11", "x": 90, "uvlock": true },
-				{ "model": "block/red_mushroom_block12", "x": 90, "uvlock": true },
-				{ "model": "block/red_mushroom_block13", "x": 90, "uvlock": true }
+				{ "model": "block/red_mushroom_block12", "x": 90, "uvlock": true }
 			]
 		},
 		{

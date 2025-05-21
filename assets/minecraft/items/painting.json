@@ -317,7 +317,7 @@
         "when": "cavebird",
         "model": {
           "type": "model",
-          "model": "item/painting/wip"
+          "model": "item/painting/cavebird"
         }
       },
       {

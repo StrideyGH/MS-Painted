@@ -1,7 +1,0 @@
-{
-	"parent": "item/azalea",
-	"textures": {
-		"top": "block/flowering_azalea_top",
-		"side": "block/flowering_azalea_side"
-	}
-}

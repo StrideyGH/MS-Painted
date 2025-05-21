@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross_mirrored",
+  "textures": {
+    "cross": "minecraft:block/crimson_fungus"
+  }
+}

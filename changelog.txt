@@ -1,15 +1,13 @@
 	
-	MS Painted for 1.21.5-25w20a (v2.39)
+	MS Painted for 1.21.5-25w21a (v2.40)
 	
 BLOCKS
 ---
-~ retextured fire and soul fire
-~ fixed chorus plant bottom
-~ tweaked lapis block
+~ tweaked purpur
 
 ITEMS
 ---
-~ flipped and fixed the 1x2_generated parent model
+
 
 ENTITIES
 ---
@@ -17,4 +15,4 @@ ENTITIES
 
 OTHER
 ---
-~ retextured soul flame particle
+~ fixed empty armor slot icons in 1.21-1.21.3
