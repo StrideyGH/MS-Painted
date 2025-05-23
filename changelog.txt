@@ -3,11 +3,15 @@
 	
 BLOCKS
 ---
+~ retextured chiseled red sandstone
+~ tweaked chiseled sandstone
 ~ tweaked purpur
+~ fixed flashing texture in mangrove leaves
 
 ITEMS
 ---
 ~ updated all fish buckets
+~ tweaked oak door
 
 ENTITIES
 ---
@@ -16,3 +20,4 @@ ENTITIES
 OTHER
 ---
 ~ fixed empty armor slot icons in 1.21-1.21.3
+~ recoloured orange (§6) text (polytone)
