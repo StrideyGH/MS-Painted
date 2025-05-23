@@ -1,23 +1,23 @@
 ﻿{
   "pack": {
     "pack_format": 34,
-	"supported_formats": [34,62],
+    "supported_formats": [34,62],
     "description": "\u00a7eMS Painted\n\u00a77By Stridey"
   },
-	"overlays": {
-		"entries": [
-			{
-				"formats": {"min_inclusive": 55, "max_inclusive": 55},
-				"directory": "overlay_55"
-			},
-			{
-				"formats": {"min_inclusive": 57, "max_inclusive": 59},
-				"directory": "leash_shader"
-			},
-			{
-				"formats": {"min_inclusive": 34, "max_inclusive": 46},
-				"directory": "1.21-1.21.4"
-			}
-		]
-	}
+  "overlays": {
+    "entries": [
+        {
+        "formats": {"min_inclusive": 55, "max_inclusive": 55},
+        "directory": "overlay_55"
+        },
+        {
+        "formats": {"min_inclusive": 57, "max_inclusive": 59},
+        "directory": "leash_shader"
+        },
+        {
+        "formats": {"min_inclusive": 34, "max_inclusive": 46},
+        "directory": "1.21-1.21.4"
+        }
+    ]
+  }
 }
