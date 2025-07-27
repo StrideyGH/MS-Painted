@@ -1,23 +1,19 @@
 	
-	MS Painted for 1.21.5-25w21a (v2.40)
+	MS Painted for 1.21-1.21.8 (v2.41)
 	
 BLOCKS
 ---
-~ retextured chiseled red sandstone
-~ tweaked chiseled sandstone
-~ tweaked purpur
-~ fixed flashing texture in mangrove leaves
+
 
 ITEMS
 ---
-~ updated all fish buckets
-~ tweaked oak door
+
 
 ENTITIES
 ---
-~ fixed pig saddle in 1.21-1.21.4
+~ retextured parrots
 
 OTHER
 ---
-~ fixed empty armor slot icons in 1.21-1.21.3
-~ recoloured orange (§6) text (polytone)
+~ updated pack format to 64
+- reverted 1.21.6 fog changes (credit to ioblackshaw)

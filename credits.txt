@@ -4,3 +4,5 @@
 ioblackshaw (enchanted.games)
 ---
 leash shader
+block outline shader
+classic fog shader

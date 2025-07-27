@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=east": [
+		{ "model": "minecraft:block/ladder", "y": 90 },
+		{ "model": "minecraft:block/ladder", "y": 270, "x": 180 },
+		{ "model": "minecraft:block/ladder_mirrored", "y": 90 },
+		{ "model": "minecraft:block/ladder_mirrored", "y": 270, "x": 180 }
+	],
+    "facing=north": [
+		{ "model": "minecraft:block/ladder" },
+		{ "model": "minecraft:block/ladder", "y": 180, "x": 180 },
+		{ "model": "minecraft:block/ladder_mirrored" },
+		{ "model": "minecraft:block/ladder_mirrored", "y": 180, "x": 180 }
+	],
+    "facing=south": [
+		{ "model": "minecraft:block/ladder", "y": 180 },
+		{ "model": "minecraft:block/ladder", "x": 180 },
+		{ "model": "minecraft:block/ladder_mirrored", "y": 180 },
+		{ "model": "minecraft:block/ladder_mirrored", "x": 180 }
+	],
+    "facing=west": [
+		{ "model": "minecraft:block/ladder", "y": 270 },
+		{ "model": "minecraft:block/ladder", "y": 90, "x": 180 },
+		{ "model": "minecraft:block/ladder_mirrored", "y": 270 },
+		{ "model": "minecraft:block/ladder_mirrored", "y": 90, "x": 180 }
+	]
+  }
+}

@@ -1,0 +1,56 @@
+{
+    "formatVersion": 8,
+    "customName": "Custom Outline Creator",
+    "settingGroups": {
+        "block-outline": {
+            "anim-speed": 700,
+            "colour-period": 2,
+            "reverse-animation-direction": false,
+            "smooth-mix": true,
+            "anim-with-distance": true,
+            "anim-along-lines": false,
+            "line-width": 5,
+            "colours": [
+                "#000000ff"
+            ],
+            "ignores-depth": false
+        },
+        "entity-hitbox": {
+            "anim-speed": 700,
+            "colour-period": 3,
+            "reverse-animation-direction": false,
+            "smooth-mix": true,
+            "anim-with-distance": false,
+            "anim-along-lines": true,
+            "line-width": 5,
+            "colours": [
+                "#ffffffff"
+            ],
+            "apply-to-all-hitbox-lines": false
+        },
+        "accesible-block-outline": {
+            "anim-speed": 500,
+            "colour-period": 2,
+            "reverse-animation-direction": false,
+            "smooth-mix": true,
+            "anim-with-distance": true,
+            "anim-along-lines": false,
+            "line-width": 4,
+            "colours": [
+                "#3df9e1ff"
+            ],
+            "ignores-depth": false,
+            "anim-speed_secondary": 500,
+            "colour-period_secondary": 2,
+            "reverse-animation-direction_secondary": false,
+            "smooth-mix_secondary": false,
+            "anim-with-distance_secondary": true,
+            "anim-along-lines_secondary": false,
+            "line-width_secondary": 12,
+            "colours_secondary": [
+                "#000000ff"
+            ],
+            "ignores-depth_secondary": false
+        }
+    }
+}

@@ -6,7 +6,7 @@
 		"particle": "block/anvil_side",
 		"side": "block/anvil_side",
 		"front": "block/anvil_front",
-		"bottom": "block/anvil_bottom"
+		"bottom": "block/anvil_base"
 	},
 	"elements": [
 		{

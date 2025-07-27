@@ -3,23 +3,23 @@
 	"ambientocclusion": false,
 	"textures": {
 		"hook": "block/tripwire_hook",
-		"particle": "block/oak_planks",
-		"tripwire": "block/tripwire"
+		"tripwire": "block/tripwire",
+		"particle": "block/oak_planks"
 	},
 	"elements": [
 		{
-			"from": [7.75, 1.5, 0],
-			"to": [8.25, 1.5, 7.7],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 0, 0], "rescale": true},
+			"from": [7.5, 1.5, 0],
+			"to": [9, 1.5, 5.7],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8.75, 0, 0], "rescale": true},
 			"faces": {
-				"up": {"uv": [0, 6, 16, 8], "rotation": 90, "texture": "#tripwire"},
-				"down": {"uv": [0, 8, 16, 6], "rotation": 90, "texture": "#tripwire"}
+				"up": {"uv": [0, 6, 3.875, 8], "rotation": 90, "texture": "#tripwire"},
+				"down": {"uv": [0, 6, 3.875, 8], "rotation": 90, "texture": "#tripwire"}
 			}
 		},
 		{
-			"from": [6.2, 4.425, 6.75],
-			"to": [9.8, 4.425, 10.35],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 4.2, 6.7]},
+			"from": [5.45, 4.425, 4.95],
+			"to": [10.85, 4.425, 10.35],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8.25, 4.2, 6.7]},
 			"faces": {
 				"up": {"uv": [0, 10, 6.25, 16], "texture": "#hook"},
 				"down": {"uv": [6.25, 10, 0, 16], "rotation": 180, "texture": "#hook"}

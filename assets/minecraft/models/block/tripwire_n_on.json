@@ -1,0 +1,19 @@
+{
+	"credit": "Created by Stridey",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/tripwire_on",
+		"texture": "block/tripwire_on"
+	},
+	"elements": [
+		{
+			"from": [7, 0.5, 0],
+			"to": [9, 0.5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, -0.5, 0]},
+			"faces": {
+				"up": {"uv": [0, 0, 12, 2], "rotation": 90, "texture": "#texture"},
+				"down": {"uv": [0, 0, 12, 2], "rotation": 90, "texture": "#texture"}
+			}
+		}
+	]
+}
