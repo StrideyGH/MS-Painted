@@ -1,21 +1,29 @@
 ﻿{
   "pack": {
     "pack_format": 34,
-	"supported_formats": [34,64],
+    "min_format": 34,
+    "max_format": 65,
+	"supported_formats": [34,65],
     "description": "\u00a7eMS Painted\n\u00a77By Stridey"
   },
 	"overlays": {
 		"entries": [
 			{
 				"formats": {"min_inclusive": 55, "max_inclusive": 55},
+				"min_format": 55,
+				"max_format": 55,
 				"directory": "overlay_55"
 			},
 			{
-				"formats": {"min_inclusive": 63, "max_inclusive": 64},
+				"formats": {"min_inclusive": 63, "max_inclusive": 65},
+				"min_format": 63,
+				"max_format": 65,
 				"directory": "enchantedgames"
 			},
 			{
 				"formats": {"min_inclusive": 34, "max_inclusive": 46},
+				"min_format": 34,
+				"max_format": 46,
 				"directory": "1.21-1.21.4"
 			}
 		]

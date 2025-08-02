@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_shelf_connected",
+	"textures": {
+		"all": "block/dark_oak_shelf",
+		"particle": "block/stripped_dark_oak_log"
+	}
+}

@@ -2,9 +2,9 @@
 	"credit": "Created by Stridey",
 	"parent": "item/chest",
 	"textures": {
-		"front": "block/ender_chest_front",
-		"side": "block/ender_chest_side",
-		"top": "block/ender_chest_top",
-		"particle": "block/ender_chest_side"
+		"front": "item/ender_chest_front",
+		"side": "item/ender_chest_side",
+		"top": "item/ender_chest_top",
+		"particle": "item/ender_chest_side"
 	}
 }

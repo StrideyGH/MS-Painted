@@ -1,0 +1,9 @@
+{
+	"parent": "item/copper_chest",
+	"textures": {
+		"top": "item/waxed_weathered_chiseled_copper",
+		"front": "item/waxed_weathered_copper_chest_front",
+		"side": "item/waxed_weathered_copper_chest_side",
+		"bottom": "item/waxed_weathered_copper"
+	}
+}

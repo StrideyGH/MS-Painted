@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_shelf_connected_left",
+	"textures": {
+		"all": "block/acacia_shelf",
+		"particle": "block/stripped_acacia_log"
+	}
+}

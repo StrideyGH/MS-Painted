@@ -1,19 +1,34 @@
 	
-	MS Painted for 1.21-1.21.8 (v2.41)
+	MS Painted for 1.21-25w31a (v2.42)
 	
 BLOCKS
 ---
-
++ textured exposed, weathered and oxidized lightning rods
++ textured shelves
++ added copper grate connected textures [optifine/continuity]
+~ remodelled and retextured lightning rod and lit lightning rod
+~ tweaked lever
+- removed ambient occlusion from lightning rod
 
 ITEMS
 ---
-
++ textured exposed, weathered and oxidized lightning rods
++ textured copper horse armour
++ textured copper golem statues
++ textured copper tools
++ textured copper armour
++ textured shelves
+~ retextured lightning rod
+~ retextured iron sword
+~ tweaked iron, gold, and diamond horse armour
+~ fixed item rendering in item frames and shelves
+~ fixed shield item frame position
 
 ENTITIES
 ---
-~ retextured parrots
++ textured copper golems
++ textured copper chests
++ textured copper armour and horse armour
 
 OTHER
 ---
-~ updated pack format to 64
-- reverted 1.21.6 fog changes (credit to ioblackshaw)

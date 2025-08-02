@@ -1,0 +1,68 @@
+{
+  "variants": {
+    "facing=north,powered=false,side_chain=unconnected": {
+      "model": "minecraft:block/pale_oak_shelf"
+    },
+    "facing=east,powered=false,side_chain=unconnected": {
+      "model": "minecraft:block/pale_oak_shelf", "y": 90
+    },
+    "facing=south,powered=false,side_chain=unconnected": {
+      "model": "minecraft:block/pale_oak_shelf", "y": 180
+    },
+    "facing=west,powered=false,side_chain=unconnected": {
+      "model": "minecraft:block/pale_oak_shelf", "y": -90
+    },
+	
+    "facing=north,powered=true,side_chain=unconnected": {
+      "model": "minecraft:block/pale_oak_shelf_connected"
+    },
+    "facing=east,powered=true,side_chain=unconnected": {
+      "model": "minecraft:block/pale_oak_shelf_connected", "y": 90
+    },
+    "facing=south,powered=true,side_chain=unconnected": {
+      "model": "minecraft:block/pale_oak_shelf_connected", "y": 180
+    },
+    "facing=west,powered=true,side_chain=unconnected": {
+      "model": "minecraft:block/pale_oak_shelf_connected", "y": -90
+    },
+	
+    "facing=north,powered=true,side_chain=left": {
+      "model": "minecraft:block/pale_oak_shelf_connected_left"
+    },
+    "facing=east,powered=true,side_chain=left": {
+      "model": "minecraft:block/pale_oak_shelf_connected_left", "y": 90
+    },
+    "facing=south,powered=true,side_chain=left": {
+      "model": "minecraft:block/pale_oak_shelf_connected_left", "y": 180
+    },
+    "facing=west,powered=true,side_chain=left": {
+      "model": "minecraft:block/pale_oak_shelf_connected_left", "y": -90
+    },
+	
+    "facing=north,powered=true,side_chain=center": {
+      "model": "minecraft:block/pale_oak_shelf_connected_center"
+    },
+    "facing=east,powered=true,side_chain=center": {
+      "model": "minecraft:block/pale_oak_shelf_connected_center", "y": 90
+    },
+    "facing=south,powered=true,side_chain=center": {
+      "model": "minecraft:block/pale_oak_shelf_connected_center", "y": 180
+    },
+    "facing=west,powered=true,side_chain=center": {
+      "model": "minecraft:block/pale_oak_shelf_connected_center", "y": -90
+    },
+	
+    "facing=north,powered=true,side_chain=right": {
+      "model": "minecraft:block/pale_oak_shelf_connected_right"
+    },
+    "facing=east,powered=true,side_chain=right": {
+      "model": "minecraft:block/pale_oak_shelf_connected_right", "y": 90
+    },
+    "facing=south,powered=true,side_chain=right": {
+      "model": "minecraft:block/pale_oak_shelf_connected_right", "y": 180
+    },
+    "facing=west,powered=true,side_chain=right": {
+      "model": "minecraft:block/pale_oak_shelf_connected_right", "y": -90
+    }
+  }
+}

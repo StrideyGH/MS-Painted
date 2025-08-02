@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_shelf_connected_center",
+	"textures": {
+		"all": "block/warped_shelf",
+		"particle": "block/stripped_warped_stem"
+	}
+}

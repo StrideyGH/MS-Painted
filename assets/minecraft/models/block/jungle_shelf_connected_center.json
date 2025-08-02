@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_shelf_connected_center",
+	"textures": {
+		"all": "block/jungle_shelf",
+		"particle": "block/stripped_jungle_log"
+	}
+}

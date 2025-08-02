@@ -354,6 +354,13 @@
           "type": "model",
           "model": "item/painting/orb"
         }
+      },
+      {
+        "when": "dennis",
+        "model": {
+          "type": "model",
+          "model": "item/painting/wip"
+        }
       }
     ],
     "fallback": {

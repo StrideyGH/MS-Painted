@@ -1,0 +1,9 @@
+{
+	"parent": "item/copper_chest",
+	"textures": {
+		"top": "block/oxidized_chiseled_copper",
+		"front": "item/oxidized_copper_chest_front",
+		"side": "item/oxidized_copper_chest_side",
+		"bottom": "block/oxidized_copper"
+	}
+}

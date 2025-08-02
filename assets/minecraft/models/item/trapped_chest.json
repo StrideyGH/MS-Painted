@@ -2,6 +2,6 @@
 	"credit": "Created by Stridey",
 	"parent": "item/chest",
 	"textures": {
-		"front": "block/trapped_chest_front"
+		"front": "item/trapped_chest_front"
 	}
 }

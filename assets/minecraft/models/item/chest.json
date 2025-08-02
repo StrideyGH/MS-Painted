@@ -2,10 +2,10 @@
 	"credit": "Created by Stridey",
 	"parent": "block/block",
 	"textures": {
-		"front": "block/chest_front",
-		"particle": "block/chest_side",
-		"side": "block/chest_side",
-		"top": "block/chest_top"
+		"front": "item/chest_front",
+		"particle": "#side",
+		"side": "item/chest_side",
+		"top": "item/chest_top"
 	},
 	"elements": [
 		{

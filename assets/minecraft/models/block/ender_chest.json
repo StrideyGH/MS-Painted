@@ -1,5 +1,5 @@
 {
   "textures": {
-    "particle": "block/ender_chest_side"
+    "particle": "item/ender_chest_side"
   }
 }

@@ -1,0 +1,26 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/block",
+	"textures": {
+		"top": "block/chiseled_copper",
+		"front": "item/copper_chest_front",
+		"side": "item/copper_chest_side",
+		"bottom": "block/copper_block",
+		"particle": "#side"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 14, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 1]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#front"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#bottom"}
+			}
+		}
+	]
+}
